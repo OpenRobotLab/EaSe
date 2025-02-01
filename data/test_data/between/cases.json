@@ -1,0 +1,1039 @@
+[
+    {
+        "type": "unary",
+        "dataset_idx": 3628,
+        "relation_name": "middle",
+        "target_category": "pillow",
+        "scan_id": "scene0301_00",
+        "sentence": "the middle pillow",
+        "json_obj": {
+            "category": "pillow",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 5692,
+        "relation_name": "middle",
+        "target_category": "chair",
+        "scan_id": "scene0218_00",
+        "sentence": "the middle chair.",
+        "json_obj": {
+            "category": "chair",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 3793,
+        "relation_name": "middle",
+        "target_category": "picture",
+        "scan_id": "scene0159_00",
+        "sentence": "the middle picture.",
+        "json_obj": {
+            "category": "picture",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 5313,
+        "relation_name": "middle",
+        "target_category": "picture",
+        "scan_id": "scene0132_00",
+        "sentence": "The middle picture.",
+        "json_obj": {
+            "category": "picture",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 3875,
+        "relation_name": "middle",
+        "target_category": "printer",
+        "scan_id": "scene0585_00",
+        "sentence": "Printer in the middle",
+        "json_obj": {
+            "category": "printer",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 5741,
+        "relation_name": "middle",
+        "target_category": "trash can",
+        "scan_id": "scene0310_00",
+        "sentence": "The middle trash can.",
+        "json_obj": {
+            "category": "trash can",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 6166,
+        "relation_name": "middle",
+        "target_category": "cup",
+        "scan_id": "scene0341_00",
+        "sentence": "the cup in the middle.",
+        "json_obj": {
+            "category": "cup",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 217,
+        "relation_name": "middle",
+        "target_category": "shoes",
+        "scan_id": "scene0111_00",
+        "sentence": "The shoes in the middle",
+        "json_obj": {
+            "category": "shoes",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 2653,
+        "relation_name": "middle",
+        "target_category": "chair",
+        "scan_id": "scene0264_00",
+        "sentence": "the chair in the middle",
+        "json_obj": {
+            "category": "chair",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 2886,
+        "relation_name": "middle",
+        "target_category": "shoe",
+        "scan_id": "scene0673_00",
+        "sentence": "The shoe in the middle.",
+        "json_obj": {
+            "category": "shoe",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 3331,
+        "relation_name": "middle",
+        "target_category": "coffee table",
+        "scan_id": "scene0594_00",
+        "sentence": "the middle coffee table",
+        "json_obj": {
+            "category": "coffee table",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 4799,
+        "relation_name": "middle",
+        "target_category": "sink",
+        "scan_id": "scene0492_00",
+        "sentence": "The sink in the middle.",
+        "json_obj": {
+            "category": "sink",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 5531,
+        "relation_name": "middle",
+        "target_category": "chair",
+        "scan_id": "scene0218_00",
+        "sentence": "the chair in the middle",
+        "json_obj": {
+            "category": "chair",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 1000,
+        "relation_name": "middle",
+        "target_category": "recycling bin",
+        "scan_id": "scene0181_00",
+        "sentence": "the middle recycling bin",
+        "json_obj": {
+            "category": "recycling bin",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 2139,
+        "relation_name": "middle",
+        "target_category": "window",
+        "scan_id": "scene0361_00",
+        "sentence": "the window in the middle",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 3435,
+        "relation_name": "middle",
+        "target_category": "chair",
+        "scan_id": "scene0253_00",
+        "sentence": "The chair in the middle.",
+        "json_obj": {
+            "category": "chair",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 3798,
+        "relation_name": "middle",
+        "target_category": "window",
+        "scan_id": "scene0694_00",
+        "sentence": "choose the middle window",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 5345,
+        "relation_name": "middle",
+        "target_category": "window",
+        "scan_id": "scene0286_00",
+        "sentence": "the window in the middle",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 5937,
+        "relation_name": "middle",
+        "target_category": "table",
+        "scan_id": "scene0273_00",
+        "sentence": "The table in the middle.",
+        "json_obj": {
+            "category": "table",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 1134,
+        "relation_name": "middle",
+        "target_category": "bathroom stall",
+        "scan_id": "scene0009_00",
+        "sentence": "the middle bathroom stall",
+        "json_obj": {
+            "category": "bathroom stall",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 5372,
+        "relation_name": "middle",
+        "target_category": "desk",
+        "scan_id": "scene0630_00",
+        "sentence": "the desk is in the middle",
+        "json_obj": {
+            "category": "desk",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 6060,
+        "relation_name": "middle",
+        "target_category": "window",
+        "scan_id": "scene0283_00",
+        "sentence": "The window in the middle.",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 2352,
+        "relation_name": "middle",
+        "target_category": "chair",
+        "scan_id": "scene0238_00",
+        "sentence": "the chair is in the middle",
+        "json_obj": {
+            "category": "chair",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 3645,
+        "relation_name": "middle",
+        "target_category": "towel dispenser",
+        "scan_id": "scene0009_00",
+        "sentence": "The middle towel dispenser",
+        "json_obj": {
+            "category": "towel dispenser",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 4109,
+        "relation_name": "middle",
+        "target_category": "tower",
+        "scan_id": "scene0464_00",
+        "sentence": "the tower is in the middle",
+        "json_obj": {
+            "category": "tower",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 4518,
+        "relation_name": "middle",
+        "target_category": "windows",
+        "scan_id": "scene0694_00",
+        "sentence": "The middle set of windows.",
+        "json_obj": {
+            "category": "windows",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 6005,
+        "relation_name": "middle",
+        "target_category": "printer",
+        "scan_id": "scene0585_00",
+        "sentence": "The printer in the middle.",
+        "json_obj": {
+            "category": "printer",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 1987,
+        "relation_name": "middle",
+        "target_category": "sink",
+        "scan_id": "scene0492_00",
+        "sentence": "select the sink in the middle",
+        "json_obj": {
+            "category": "sink",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 2082,
+        "relation_name": "middle",
+        "target_category": "sink",
+        "scan_id": "scene0492_00",
+        "sentence": "It is the sink in the middle.",
+        "json_obj": {
+            "category": "sink",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 2604,
+        "relation_name": "middle",
+        "target_category": "shoes",
+        "scan_id": "scene0515_00",
+        "sentence": "It's the shoes in the middle.",
+        "json_obj": {
+            "category": "shoes",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 1043,
+        "relation_name": "middle",
+        "target_category": "pillow",
+        "scan_id": "scene0467_00",
+        "sentence": "pick the pillow in the middle.",
+        "json_obj": {
+            "category": "pillow",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 4640,
+        "relation_name": "middle",
+        "target_category": "coffee table",
+        "scan_id": "scene0202_00",
+        "sentence": "choose the middle coffee table",
+        "json_obj": {
+            "category": "coffee table",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 5639,
+        "relation_name": "middle",
+        "target_category": "coffee table",
+        "scan_id": "scene0202_00",
+        "sentence": "The coffee table in the middle",
+        "json_obj": {
+            "category": "coffee table",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 5748,
+        "relation_name": "middle",
+        "target_category": "file cabinet",
+        "scan_id": "scene0142_00",
+        "sentence": "It is the middle file cabinet.",
+        "json_obj": {
+            "category": "file cabinet",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 207,
+        "relation_name": "middle",
+        "target_category": "stall",
+        "scan_id": "scene0009_00",
+        "sentence": "the bathroom stall in the middle",
+        "json_obj": {
+            "category": "stall",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 812,
+        "relation_name": "middle",
+        "target_category": "trash can",
+        "scan_id": "scene0586_00",
+        "sentence": "pick the trash can in the middle",
+        "json_obj": {
+            "category": "trash can",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 3732,
+        "relation_name": "middle",
+        "target_category": "paper towel dispenser",
+        "scan_id": "scene0009_00",
+        "sentence": "the middle paper towel dispenser",
+        "json_obj": {
+            "category": "paper towel dispenser",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 5039,
+        "relation_name": "middle",
+        "target_category": "window",
+        "scan_id": "scene0419_00",
+        "sentence": "Choose the window in the middle.",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 6780,
+        "relation_name": "middle",
+        "target_category": "window",
+        "scan_id": "scene0047_00",
+        "sentence": "Choose the window in the middle.",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 811,
+        "relation_name": "middle",
+        "target_category": "trash can",
+        "scan_id": "scene0586_00",
+        "sentence": "It's the trash can in the middle.",
+        "json_obj": {
+            "category": "trash can",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 5266,
+        "relation_name": "middle",
+        "target_category": "picture",
+        "scan_id": "scene0267_00",
+        "sentence": "The picture that is in the middle.",
+        "json_obj": {
+            "category": "picture",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 5545,
+        "relation_name": "middle",
+        "target_category": "chair",
+        "scan_id": "scene0590_00",
+        "sentence": "the chair is the one in the middle",
+        "json_obj": {
+            "category": "chair",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 6435,
+        "relation_name": "middle",
+        "target_category": "trash can",
+        "scan_id": "scene0247_00",
+        "sentence": "select the trash can in the middle",
+        "json_obj": {
+            "category": "trash can",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 824,
+        "relation_name": "middle",
+        "target_category": "plant",
+        "scan_id": "scene0262_00",
+        "sentence": "The middle plant on the windowsill.",
+        "json_obj": {
+            "category": "plant",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 339,
+        "relation_name": "middle",
+        "target_category": "shelf",
+        "scan_id": "scene0020_00",
+        "sentence": "pick the shelf that is in the middle",
+        "json_obj": {
+            "category": "shelf",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 4090,
+        "relation_name": "middle",
+        "target_category": "chair",
+        "scan_id": "scene0218_00",
+        "sentence": "The chair that is in the very middle",
+        "json_obj": {
+            "category": "chair",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 5651,
+        "relation_name": "middle",
+        "target_category": "shoes",
+        "scan_id": "scene0515_00",
+        "sentence": "It's the pair of shoes in the middle.",
+        "json_obj": {
+            "category": "shoes",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 1207,
+        "relation_name": "middle",
+        "target_category": "table",
+        "scan_id": "scene0056_00",
+        "sentence": "Choose the table that is in the middle",
+        "json_obj": {
+            "category": "table",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 2461,
+        "relation_name": "middle",
+        "target_category": "cabinets",
+        "scan_id": "scene0186_00",
+        "sentence": "The full row of cabinets in the middle",
+        "json_obj": {
+            "category": "cabinets",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 4359,
+        "relation_name": "middle",
+        "target_category": "shoes",
+        "scan_id": "scene0515_00",
+        "sentence": "Choose the pair of shoes in the middle.",
+        "json_obj": {
+            "category": "shoes",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 6269,
+        "relation_name": "middle",
+        "target_category": "chair",
+        "scan_id": "scene0464_00",
+        "sentence": "in the row of chairs, the middlemost one",
+        "json_obj": {
+            "category": "chair",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 5518,
+        "relation_name": "middle",
+        "target_category": "cup",
+        "scan_id": "scene0341_00",
+        "sentence": "The correct cup is the one in the middle.",
+        "json_obj": {
+            "category": "cup",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 5850,
+        "relation_name": "middle",
+        "target_category": "door",
+        "scan_id": "scene0186_00",
+        "sentence": "Facing the doors, the door in the middle.",
+        "json_obj": {
+            "category": "door",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 6673,
+        "relation_name": "middle",
+        "target_category": "bag",
+        "scan_id": "scene0590_00",
+        "sentence": "The correct bag is the one in the middle.",
+        "json_obj": {
+            "category": "bag",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 6785,
+        "relation_name": "middle",
+        "target_category": "cup",
+        "scan_id": "scene0341_00",
+        "sentence": "The correct cup is the one in the middle.",
+        "json_obj": {
+            "category": "cup",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 359,
+        "relation_name": "middle",
+        "target_category": "towel",
+        "scan_id": "scene0625_00",
+        "sentence": "the middle towel which is also a folded towel",
+        "json_obj": {
+            "category": "towel",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 6196,
+        "relation_name": "middle",
+        "target_category": "picture",
+        "scan_id": "scene0186_00",
+        "sentence": "The correct picture is the one in the middle.",
+        "json_obj": {
+            "category": "picture",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 245,
+        "relation_name": "middle",
+        "target_category": "desk",
+        "scan_id": "scene0489_00",
+        "sentence": "Facing the windows, choose the desk in the middle.",
+        "json_obj": {
+            "category": "desk",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 215,
+        "relation_name": "middle",
+        "target_category": "shoes",
+        "scan_id": "scene0111_00",
+        "sentence": "from underneath the room, you want the middle shoes",
+        "json_obj": {
+            "category": "shoes",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 628,
+        "relation_name": "middle",
+        "target_category": "desk",
+        "scan_id": "scene0505_00",
+        "sentence": "Facing the windows, it's the second desk from left to right in the middle.",
+        "json_obj": {
+            "category": "desk",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 4428,
+        "relation_name": "middle",
+        "target_category": "shelf",
+        "scan_id": "scene0635_00",
+        "sentence": "When standing with your back to the door, the correct shelf is in the middle.",
+        "json_obj": {
+            "category": "shelf",
+            "relations": [
+                {
+                    "relation_name": "middle",
+                    "objects": []
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,1365 @@
+[
+    {
+        "type": "binary",
+        "dataset_idx": 1290,
+        "relation_name": "left",
+        "target_category": "window",
+        "scan_id": "scene0259_00",
+        "sentence": "The left window.",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1372,
+        "relation_name": "left",
+        "target_category": "cup",
+        "scan_id": "scene0117_00",
+        "sentence": "the cup on the left.",
+        "json_obj": {
+            "category": "cup",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5238,
+        "relation_name": "left",
+        "target_category": "bed",
+        "scan_id": "scene0270_00",
+        "sentence": "The bed on the left.",
+        "json_obj": {
+            "category": "bed",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6092,
+        "relation_name": "left",
+        "target_category": "can",
+        "scan_id": "scene0022_00",
+        "sentence": "The can on the left.",
+        "json_obj": {
+            "category": "can",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6763,
+        "relation_name": "left",
+        "target_category": "keyboard",
+        "scan_id": "scene0489_00",
+        "sentence": "keyboard on the left",
+        "json_obj": {
+            "category": "keyboard",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2369,
+        "relation_name": "left",
+        "target_category": "desk",
+        "scan_id": "scene0468_00",
+        "sentence": "The desk on your left",
+        "json_obj": {
+            "category": "desk",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2407,
+        "relation_name": "left",
+        "target_category": "trash can",
+        "scan_id": "scene0398_00",
+        "sentence": "trash can to the left",
+        "json_obj": {
+            "category": "trash can",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 928,
+        "relation_name": "left",
+        "target_category": "towel",
+        "scan_id": "scene0571_00",
+        "sentence": "The towel on the left.",
+        "json_obj": {
+            "category": "towel",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4680,
+        "relation_name": "left",
+        "target_category": "stool",
+        "scan_id": "scene0592_00",
+        "sentence": "The stool on the left.",
+        "json_obj": {
+            "category": "stool",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5527,
+        "relation_name": "left",
+        "target_category": "shelf",
+        "scan_id": "scene0468_00",
+        "sentence": "shelf on the left side",
+        "json_obj": {
+            "category": "shelf",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5721,
+        "relation_name": "left",
+        "target_category": "window",
+        "scan_id": "scene0295_00",
+        "sentence": "choose the left window",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6320,
+        "relation_name": "left",
+        "target_category": "window",
+        "scan_id": "scene0495_00",
+        "sentence": "the window to the left",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 110,
+        "relation_name": "left",
+        "target_category": "lamp",
+        "scan_id": "scene0477_00",
+        "sentence": "'The lamp on the left.'",
+        "json_obj": {
+            "category": "lamp",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5148,
+        "relation_name": "left",
+        "target_category": "window",
+        "scan_id": "scene0259_00",
+        "sentence": "The window on the left.",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3192,
+        "relation_name": "left",
+        "target_category": "cabinet",
+        "scan_id": "scene0479_00",
+        "sentence": "The cabinet on the left.",
+        "json_obj": {
+            "category": "cabinet",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1305,
+        "relation_name": "left",
+        "target_category": "keyboard",
+        "scan_id": "scene0630_00",
+        "sentence": "The keyboard on the left.",
+        "json_obj": {
+            "category": "keyboard",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1133,
+        "relation_name": "left",
+        "target_category": "sofa chair",
+        "scan_id": "scene0125_00",
+        "sentence": "the sofa chair on the left",
+        "json_obj": {
+            "category": "sofa chair",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2525,
+        "relation_name": "left",
+        "target_category": "trash can",
+        "scan_id": "scene0254_00",
+        "sentence": "The trash can on the left.",
+        "json_obj": {
+            "category": "trash can",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6094,
+        "relation_name": "left",
+        "target_category": "bookcase",
+        "scan_id": "scene0040_00",
+        "sentence": "the bookcase to your left.",
+        "json_obj": {
+            "category": "bookcase",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 248,
+        "relation_name": "left",
+        "target_category": "trash can",
+        "scan_id": "scene0400_00",
+        "sentence": "Trash can second from left.",
+        "json_obj": {
+            "category": "trash can",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5924,
+        "relation_name": "left",
+        "target_category": "bed",
+        "scan_id": "scene0642_00",
+        "sentence": "choose the bed on the left.",
+        "json_obj": {
+            "category": "bed",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 721,
+        "relation_name": "left",
+        "target_category": "toilet paper",
+        "scan_id": "scene0014_00",
+        "sentence": "The toilet paper on the left",
+        "json_obj": {
+            "category": "toilet paper",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5316,
+        "relation_name": "left",
+        "target_category": "garbage can",
+        "scan_id": "scene0009_00",
+        "sentence": "The garbage can on the left.",
+        "json_obj": {
+            "category": "garbage can",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5990,
+        "relation_name": "left",
+        "target_category": "bed",
+        "scan_id": "scene0006_00",
+        "sentence": "facing beds, choose left bed",
+        "json_obj": {
+            "category": "bed",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 926,
+        "relation_name": "left",
+        "target_category": "trash can",
+        "scan_id": "scene0223_00",
+        "sentence": "the left trash can of the two",
+        "json_obj": {
+            "category": "trash can",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 980,
+        "relation_name": "left",
+        "target_category": "toilet paper",
+        "scan_id": "scene0014_00",
+        "sentence": "the toilet paper on the left.",
+        "json_obj": {
+            "category": "toilet paper",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1001,
+        "relation_name": "left",
+        "target_category": "recycling bin",
+        "scan_id": "scene0201_00",
+        "sentence": "the recycling bin on the left",
+        "json_obj": {
+            "category": "recycling bin",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1313,
+        "relation_name": "left",
+        "target_category": "painting",
+        "scan_id": "scene0641_00",
+        "sentence": "It's the painting on the left.",
+        "json_obj": {
+            "category": "painting",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4415,
+        "relation_name": "left",
+        "target_category": "mirror",
+        "scan_id": "scene0579_00",
+        "sentence": "choose the mirror on the left.",
+        "json_obj": {
+            "category": "mirror",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 999,
+        "relation_name": "left",
+        "target_category": "box",
+        "scan_id": "scene0109_00",
+        "sentence": "pick the fedex box on the left.",
+        "json_obj": {
+            "category": "box",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3487,
+        "relation_name": "left",
+        "target_category": "sink",
+        "scan_id": "scene0399_00",
+        "sentence": "This sink is the leftmost sink.",
+        "json_obj": {
+            "category": "sink",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5548,
+        "relation_name": "left",
+        "target_category": "sink",
+        "scan_id": "scene0014_00",
+        "sentence": "if facing sinks, choose left sink",
+        "json_obj": {
+            "category": "sink",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4846,
+        "relation_name": "left",
+        "target_category": "can",
+        "scan_id": "scene0469_00",
+        "sentence": "Facing the cans, the leftmost can.",
+        "json_obj": {
+            "category": "can",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1731,
+        "relation_name": "left",
+        "target_category": "cart",
+        "scan_id": "scene0325_00",
+        "sentence": "Facing the door, the leftmost cart.",
+        "json_obj": {
+            "category": "cart",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1831,
+        "relation_name": "left",
+        "target_category": "desk",
+        "scan_id": "scene0005_00",
+        "sentence": "the top desk , the one on your left",
+        "json_obj": {
+            "category": "desk",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5092,
+        "relation_name": "left",
+        "target_category": "box",
+        "scan_id": "scene0213_00",
+        "sentence": "Facing the boxes, the leftmost box.",
+        "json_obj": {
+            "category": "box",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6347,
+        "relation_name": "left",
+        "target_category": "lamp",
+        "scan_id": "scene0477_00",
+        "sentence": "Facing the lamps, it is the left one.",
+        "json_obj": {
+            "category": "lamp",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3807,
+        "relation_name": "left",
+        "target_category": "shelf",
+        "scan_id": "scene0675_00",
+        "sentence": "Facing the window, the leftmost shelf.",
+        "json_obj": {
+            "category": "shelf",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4115,
+        "relation_name": "left",
+        "target_category": "stall",
+        "scan_id": "scene0510_00",
+        "sentence": "Facing the stalls, the leftmost stall.",
+        "json_obj": {
+            "category": "stall",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6437,
+        "relation_name": "left",
+        "target_category": "oven",
+        "scan_id": "scene0486_00",
+        "sentence": "Facing the ovens, the oven on the left",
+        "json_obj": {
+            "category": "oven",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2113,
+        "relation_name": "left",
+        "target_category": "door",
+        "scan_id": "scene0259_00",
+        "sentence": "Facing the doors, the door on the left.",
+        "json_obj": {
+            "category": "door",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2487,
+        "relation_name": "left",
+        "target_category": "chair",
+        "scan_id": "scene0142_00",
+        "sentence": "Facing the window, the left side chair.",
+        "json_obj": {
+            "category": "chair",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3193,
+        "relation_name": "left",
+        "target_category": "box",
+        "scan_id": "scene0341_00",
+        "sentence": "Facing the two boxes, the leftmost box.",
+        "json_obj": {
+            "category": "box",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5586,
+        "relation_name": "left",
+        "target_category": "can",
+        "scan_id": "scene0110_00",
+        "sentence": "Facing the window, the can on the left.",
+        "json_obj": {
+            "category": "can",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1054,
+        "relation_name": "left",
+        "target_category": "laptop",
+        "scan_id": "scene0108_00",
+        "sentence": "the left of the laptops when facing them",
+        "json_obj": {
+            "category": "laptop",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1108,
+        "relation_name": "left",
+        "target_category": "box",
+        "scan_id": "scene0630_00",
+        "sentence": "staring at the 2 boxes. its the left one",
+        "json_obj": {
+            "category": "box",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1734,
+        "relation_name": "left",
+        "target_category": "sink",
+        "scan_id": "scene0429_00",
+        "sentence": "facing sinks it is the sink on your left",
+        "json_obj": {
+            "category": "sink",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2385,
+        "relation_name": "left",
+        "target_category": "desk",
+        "scan_id": "scene0398_00",
+        "sentence": "Facing the window, the desk on the left.",
+        "json_obj": {
+            "category": "desk",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4784,
+        "relation_name": "left",
+        "target_category": "curtain",
+        "scan_id": "scene0053_00",
+        "sentence": "Facing the window, the leftmost curtain.",
+        "json_obj": {
+            "category": "curtain",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5245,
+        "relation_name": "left",
+        "target_category": "shoes",
+        "scan_id": "scene0024_00",
+        "sentence": "Facing the shoes, the shoes on the left.",
+        "json_obj": {
+            "category": "shoes",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6033,
+        "relation_name": "left",
+        "target_category": "desk",
+        "scan_id": "scene0110_00",
+        "sentence": "Facing the window, the desk on the left.",
+        "json_obj": {
+            "category": "desk",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5139,
+        "relation_name": "left",
+        "target_category": "chair",
+        "scan_id": "scene0270_00",
+        "sentence": "Facing the window, the chair on the left.",
+        "json_obj": {
+            "category": "chair",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1629,
+        "relation_name": "left",
+        "target_category": "mouse",
+        "scan_id": "scene0320_00",
+        "sentence": "Facing the windows, the mouse on the left.",
+        "json_obj": {
+            "category": "mouse",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3608,
+        "relation_name": "left",
+        "target_category": "window",
+        "scan_id": "scene0459_00",
+        "sentence": "Facing the windows, the window on the left.",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5167,
+        "relation_name": "left",
+        "target_category": "blanket",
+        "scan_id": "scene0233_00",
+        "sentence": "Facing the window, the blanket on the left.",
+        "json_obj": {
+            "category": "blanket",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6009,
+        "relation_name": "left",
+        "target_category": "window",
+        "scan_id": "scene0166_00",
+        "sentence": "Facing the windows, the window on the left.",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2919,
+        "relation_name": "left",
+        "target_category": "trash can",
+        "scan_id": "scene0468_00",
+        "sentence": "Facing the window, select the left trash can.",
+        "json_obj": {
+            "category": "trash can",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6053,
+        "relation_name": "left",
+        "target_category": "toilet",
+        "scan_id": "scene0254_00",
+        "sentence": "the left toilet with the half open stall door",
+        "json_obj": {
+            "category": "toilet",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4998,
+        "relation_name": "left",
+        "target_category": "telephone",
+        "scan_id": "scene0305_00",
+        "sentence": "Facing the windows, the telephone on the left.",
+        "json_obj": {
+            "category": "telephone",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5636,
+        "relation_name": "left",
+        "target_category": "radiator",
+        "scan_id": "scene0380_00",
+        "sentence": "Facing the radiators, the radiator on the left.",
+        "json_obj": {
+            "category": "radiator",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 564,
+        "relation_name": "left",
+        "target_category": "stall",
+        "scan_id": "scene0365_00",
+        "sentence": "looking at the stalls, pick the one on the left.",
+        "json_obj": {
+            "category": "stall",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1919,
+        "relation_name": "left",
+        "target_category": "window panels",
+        "scan_id": "scene0020_00",
+        "sentence": "from the bookshelves, the leftmost window panels",
+        "json_obj": {
+            "category": "window panels",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5129,
+        "relation_name": "left",
+        "target_category": "trash can",
+        "scan_id": "scene0468_00",
+        "sentence": "looking at the window, the trash can on the left.",
+        "json_obj": {
+            "category": "trash can",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1092,
+        "relation_name": "left",
+        "target_category": "wardrobe closet",
+        "scan_id": "scene0110_00",
+        "sentence": "The wardrobe closet on the left, when facing them.",
+        "json_obj": {
+            "category": "wardrobe closet",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4787,
+        "relation_name": "left",
+        "target_category": "keyboard",
+        "scan_id": "scene0380_00",
+        "sentence": "Facing the window, choose the keyboard on the left.",
+        "json_obj": {
+            "category": "keyboard",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4788,
+        "relation_name": "left",
+        "target_category": "desk",
+        "scan_id": "scene0468_00",
+        "sentence": "Looking at the window, choose the desk on the left.",
+        "json_obj": {
+            "category": "desk",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4470,
+        "relation_name": "left",
+        "target_category": "radiator",
+        "scan_id": "scene0379_00",
+        "sentence": "When entering the room, this radiator is on the left.",
+        "json_obj": {
+            "category": "radiator",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6107,
+        "relation_name": "left",
+        "target_category": "door",
+        "scan_id": "scene0241_00",
+        "sentence": "Choose the door on the left that has a metallic doorknob.",
+        "json_obj": {
+            "category": "door",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2514,
+        "relation_name": "left",
+        "target_category": "chair",
+        "scan_id": "scene0318_00",
+        "sentence": "When looking at the wood wall, choose the chair on the left.",
+        "json_obj": {
+            "category": "chair",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5401,
+        "relation_name": "left",
+        "target_category": "recycling bin",
+        "scan_id": "scene0398_00",
+        "sentence": "Walking in to the room, you want the recycling bin on the left side",
+        "json_obj": {
+            "category": "recycling bin",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2396,
+        "relation_name": "left",
+        "target_category": "couch",
+        "scan_id": "scene0319_00",
+        "sentence": "It is the couch on the left, with two pillows that are not touching.",
+        "json_obj": {
+            "category": "couch",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5402,
+        "relation_name": "left",
+        "target_category": "window",
+        "scan_id": "scene0459_00",
+        "sentence": "If you face the windows from inside the room, it is the window on the left.",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5955,
+        "relation_name": "left",
+        "target_category": "bin",
+        "scan_id": "scene0110_00",
+        "sentence": "look at the bins from inside the room, choose the recycling bin on the left",
+        "json_obj": {
+            "category": "bin",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6627,
+        "relation_name": "left",
+        "target_category": "window",
+        "scan_id": "scene0002_00",
+        "sentence": "When standing in the room, looking the windows, the correct window is on the left.",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6731,
+        "relation_name": "left",
+        "target_category": "sink",
+        "scan_id": "scene0399_00",
+        "sentence": "The sink on left hand side. If you are looking in front as if to wash one's hands.",
+        "json_obj": {
+            "category": "sink",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3674,
+        "relation_name": "left",
+        "target_category": "bed",
+        "scan_id": "scene0440_00",
+        "sentence": "When standing in the middle of the room facing the beds the correct one is on the left.",
+        "json_obj": {
+            "category": "bed",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4821,
+        "relation_name": "left",
+        "target_category": "sofa",
+        "scan_id": "scene0008_00",
+        "sentence": "When standing in the middle of the room facing the sofas, the correct one is on the left.",
+        "json_obj": {
+            "category": "sofa",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2249,
+        "relation_name": "left",
+        "target_category": "keyboard",
+        "scan_id": "scene0630_00",
+        "sentence": "When standing in the middle of the room facing the keyboards, the correct one is on the left.",
+        "json_obj": {
+            "category": "keyboard",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5661,
+        "relation_name": "left",
+        "target_category": "trash can",
+        "scan_id": "scene0398_00",
+        "sentence": "When standing in the middle of the room facing the window the correct trash can is on the left.",
+        "json_obj": {
+            "category": "trash can",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1965,
+        "relation_name": "left",
+        "target_category": "trash can",
+        "scan_id": "scene0110_00",
+        "sentence": "When standing in the middle of the room facing the window, the correct trash can is on the left.",
+        "json_obj": {
+            "category": "trash can",
+            "relations": [
+                {
+                    "relation_name": "left",
+                    "objects": []
+                }
+            ]
+        }
+    }
+]

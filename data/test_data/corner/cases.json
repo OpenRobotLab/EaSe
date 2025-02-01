@@ -1,0 +1,629 @@
+[
+    {
+        "type": "unary",
+        "dataset_idx": 2389,
+        "relation_name": "corner",
+        "target_category": "table",
+        "scan_id": "scene0537_00",
+        "sentence": "table in the corner",
+        "json_obj": {
+            "category": "table",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 949,
+        "relation_name": "corner",
+        "target_category": "box",
+        "scan_id": "scene0168_00",
+        "sentence": "the box in the corner",
+        "json_obj": {
+            "category": "box",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 1942,
+        "relation_name": "corner",
+        "target_category": "desk",
+        "scan_id": "scene0266_00",
+        "sentence": "The desk in the corner",
+        "json_obj": {
+            "category": "desk",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 5897,
+        "relation_name": "corner",
+        "target_category": "pillow",
+        "scan_id": "scene0694_00",
+        "sentence": "the pillow in the corner",
+        "json_obj": {
+            "category": "pillow",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 2017,
+        "relation_name": "corner",
+        "target_category": "printer",
+        "scan_id": "scene0255_00",
+        "sentence": "the printer in the corner",
+        "json_obj": {
+            "category": "printer",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 4027,
+        "relation_name": "corner",
+        "target_category": "shelves",
+        "scan_id": "scene0166_00",
+        "sentence": "the shelves in the corner",
+        "json_obj": {
+            "category": "shelves",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 1603,
+        "relation_name": "corner",
+        "target_category": "trash can",
+        "scan_id": "scene0267_00",
+        "sentence": "the trash can in the corner",
+        "json_obj": {
+            "category": "trash can",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 2005,
+        "relation_name": "corner",
+        "target_category": "monitor",
+        "scan_id": "scene0489_00",
+        "sentence": "the monitor is in the corner",
+        "json_obj": {
+            "category": "monitor",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 4272,
+        "relation_name": "corner",
+        "target_category": "pillow",
+        "scan_id": "scene0326_00",
+        "sentence": "This pillow is in the corner.",
+        "json_obj": {
+            "category": "pillow",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 6003,
+        "relation_name": "corner",
+        "target_category": "chair",
+        "scan_id": "scene0614_00",
+        "sentence": "It's the chair in the corner.",
+        "json_obj": {
+            "category": "chair",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 6651,
+        "relation_name": "corner",
+        "target_category": "sink",
+        "scan_id": "scene0394_00",
+        "sentence": "the sink tucked into a corner",
+        "json_obj": {
+            "category": "sink",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 567,
+        "relation_name": "corner",
+        "target_category": "pillow",
+        "scan_id": "scene0604_00",
+        "sentence": "It's the pillow in the corner.",
+        "json_obj": {
+            "category": "pillow",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 4810,
+        "relation_name": "corner",
+        "target_category": "table",
+        "scan_id": "scene0667_00",
+        "sentence": "It is the table in the corner.",
+        "json_obj": {
+            "category": "table",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 1696,
+        "relation_name": "corner",
+        "target_category": "chair",
+        "scan_id": "scene0419_00",
+        "sentence": "the chair located in the corner",
+        "json_obj": {
+            "category": "chair",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 2278,
+        "relation_name": "corner",
+        "target_category": "window",
+        "scan_id": "scene0391_00",
+        "sentence": "It is the window in the corner.",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 4307,
+        "relation_name": "corner",
+        "target_category": "chair",
+        "scan_id": "scene0380_00",
+        "sentence": "choose the chair in the corner.",
+        "json_obj": {
+            "category": "chair",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 1562,
+        "relation_name": "corner",
+        "target_category": "computer tower",
+        "scan_id": "scene0138_00",
+        "sentence": "The computer tower in the corner",
+        "json_obj": {
+            "category": "computer tower",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 3216,
+        "relation_name": "corner",
+        "target_category": "pillow",
+        "scan_id": "scene0326_00",
+        "sentence": "The pillow that is in the corner",
+        "json_obj": {
+            "category": "pillow",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 1901,
+        "relation_name": "corner",
+        "target_category": "desk",
+        "scan_id": "scene0443_00",
+        "sentence": "This desk is in the room's corner.",
+        "json_obj": {
+            "category": "desk",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 3009,
+        "relation_name": "corner",
+        "target_category": "chair",
+        "scan_id": "scene0130_00",
+        "sentence": "The correct chair is in the corner.",
+        "json_obj": {
+            "category": "chair",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 5689,
+        "relation_name": "corner",
+        "target_category": "microwave",
+        "scan_id": "scene0323_00",
+        "sentence": "This is the microwave in the corner",
+        "json_obj": {
+            "category": "microwave",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 1389,
+        "relation_name": "corner",
+        "target_category": "trash can",
+        "scan_id": "scene0538_00",
+        "sentence": "This trash can is more in the corner.",
+        "json_obj": {
+            "category": "trash can",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 4214,
+        "relation_name": "corner",
+        "target_category": "garbage can",
+        "scan_id": "scene0350_00",
+        "sentence": "choose the garbage can in the corner.",
+        "json_obj": {
+            "category": "garbage can",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 5663,
+        "relation_name": "corner",
+        "target_category": "chair",
+        "scan_id": "scene0459_00",
+        "sentence": "This chair is tucked into the corner.",
+        "json_obj": {
+            "category": "chair",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+
+    {
+        "type": "unary",
+        "dataset_idx": 1851,
+        "relation_name": "corner",
+        "target_category": "box",
+        "scan_id": "scene0613_00",
+        "sentence": "The correct box is more in the corner.",
+        "json_obj": {
+            "category": "box",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 6472,
+        "relation_name": "corner",
+        "target_category": "bookshelf",
+        "scan_id": "scene0635_00",
+        "sentence": "The bookshelf is located in the corner",
+        "json_obj": {
+            "category": "bookshelf",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 6735,
+        "relation_name": "corner",
+        "target_category": "suitcase",
+        "scan_id": "scene0418_00",
+        "sentence": "The suitcase furthest back in the corner.",
+        "json_obj": {
+            "category": "suitcase",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                },
+                {
+                    "relation_name": "on the floor",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 4361,
+        "relation_name": "corner",
+        "target_category": "plant",
+        "scan_id": "scene0352_00",
+        "sentence": "The correct plant is the one in the corner.",
+        "json_obj": {
+            "category": "plant",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 408,
+        "relation_name": "corner",
+        "target_category": "shoes",
+        "scan_id": "scene0706_00",
+        "sentence": "The shoes that are closer to the room corner",
+        "json_obj": {
+            "category": "shoes",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 6390,
+        "relation_name": "corner",
+        "target_category": "bathroom stall",
+        "scan_id": "scene0365_00",
+        "sentence": "Choose the bathroom stall that's in a corner",
+        "json_obj": {
+            "category": "bathroom stall",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 1040,
+        "relation_name": "corner",
+        "target_category": "trashcan",
+        "scan_id": "scene0225_00",
+        "sentence": "of the 4 trashcans. its the one in the corner",
+        "json_obj": {
+            "category": "trashcan",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 2847,
+        "relation_name": "corner",
+        "target_category": "window",
+        "scan_id": "scene0391_00",
+        "sentence": "This window is the one closest to the corner.",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": true
+                },
+                {
+                    "relation_name": "closest",
+                    "objects": []
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 1369,
+        "relation_name": "corner",
+        "target_category": "computer tower",
+        "scan_id": "scene0098_00",
+        "sentence": "choose the computer tower cloest to the corner.",
+        "json_obj": {
+            "category": "computer tower",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                },
+                {
+                    "relation_name": "closest",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    },
+    {
+        "type": "unary",
+        "dataset_idx": 6465,
+        "relation_name": "corner",
+        "target_category": "nightstand",
+        "scan_id": "scene0235_00",
+        "sentence": "The correct nightstand is the one in the corner.",
+        "json_obj": {
+            "category": "nightstand",
+            "relations": [
+                {
+                    "relation_name": "corner",
+                    "objects": [],
+                    "negative": false
+                }
+            ]
+        }
+    }
+]

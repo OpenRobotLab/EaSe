@@ -1,0 +1,3 @@
+# Case {idx}.
+
+Metric value of object {target_loc} "above" object {anchor_loc} should be larger than 0. Metric value of object {target_loc} "above" object {anchor_loc} should be higher than the metric value of object {pred_loc} "above" object {pred_anchor_loc}. 

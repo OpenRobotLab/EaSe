@@ -1,0 +1,1002 @@
+[
+    {
+        "id": "scene0487_00-window-3-7-1-24",
+        "scan_id": "scene0487_00",
+        "target": 7,
+        "anchor": 17,
+        "distactors": [
+            "1",
+            "24"
+        ],
+        "utterance": "wall behind couch"
+    },
+    {
+        "id": "scene0301_00-box-3-2-10-26",
+        "scan_id": "scene0301_00",
+        "target": 2,
+        "anchor": 1,
+        "distactors": [
+            "10",
+            "26"
+        ],
+        "utterance": "box behind the couch"
+    },
+    {
+        "id": "scene0151_00-radiator-2-17-23",
+        "scan_id": "scene0151_00",
+        "target": 17,
+        "anchor": 0,
+        "distactors": [
+            "23"
+        ],
+        "utterance": "radiator behind tv unit"
+    },
+    {
+        "id": "scene0143_00-lamp-3-10-14-18",
+        "scan_id": "scene0143_00",
+        "target": 10,
+        "anchor": 17,
+        "distactors": [
+            "14",
+            "18"
+        ],
+        "utterance": "directly behind red chair"
+    },
+    {
+        "id": "scene0492_00-bar-3-20-18-19",
+        "scan_id": "scene0492_00",
+        "target": 20,
+        "anchor": 14,
+        "distactors": [
+            "18",
+            "19"
+        ],
+        "utterance": "The bar behind the toilet."
+    },
+    {
+        "id": "scene0515_00-bar-4-62-59-70-71",
+        "scan_id": "scene0515_00",
+        "target": 62,
+        "anchor": 12,
+        "distactors": [
+            "59",
+            "70",
+            "71"
+        ],
+        "utterance": "The bar behind the toilet."
+    },
+    {
+        "id": "scene0062_00-rail-2-18-17",
+        "scan_id": "scene0062_00",
+        "target": 18,
+        "anchor": 12,
+        "distactors": [
+            "17"
+        ],
+        "utterance": "The bar behind the toilet."
+    },
+    {
+        "id": "scene0612_00-bar-2-29-23",
+        "scan_id": "scene0612_00",
+        "target": 29,
+        "anchor": 4,
+        "distactors": [
+            "23"
+        ],
+        "utterance": "The bar behind the toilet."
+    },
+    {
+        "id": "scene0560_00-picture-3-11-15-23",
+        "scan_id": "scene0560_00",
+        "target": 11,
+        "anchor": 2,
+        "distactors": [
+            "15",
+            "23"
+        ],
+        "utterance": "The picture behind the bed."
+    },
+    {
+        "id": "scene0315_00-cabinet-3-38-14-32",
+        "scan_id": "scene0315_00",
+        "target": 38,
+        "anchor": 0,
+        "distactors": [
+            "14",
+            "32"
+        ],
+        "utterance": "The table behind the couch."
+    },
+    {
+        "id": "scene0200_00-window-2-16-17",
+        "scan_id": "scene0200_00",
+        "target": 16,
+        "anchor": 14,
+        "distactors": [
+            "17"
+        ],
+        "utterance": "The window behind the desk."
+    },
+    {
+        "id": "scene0279_00-lamp-4-25-19-21-22",
+        "scan_id": "scene0279_00",
+        "target": 25,
+        "anchor": 3,
+        "distactors": [
+            "19",
+            "21",
+            "22"
+        ],
+        "utterance": "'The lamp behind the couch.'"
+    },
+    {
+        "id": "scene0533_00-curtain-2-4-12",
+        "scan_id": "scene0533_00",
+        "target": 4,
+        "anchor": 6,
+        "distactors": [
+            "12"
+        ],
+        "utterance": "the curtain behind the piano"
+    },
+    {
+        "id": "scene0385_00-curtain-2-5-4",
+        "scan_id": "scene0385_00",
+        "target": 5,
+        "anchor": 3,
+        "distactors": [
+            "4"
+        ],
+        "utterance": "The curtain behind the couch"
+    },
+    {
+        "id": "scene0301_00-curtain-3-28-7-8",
+        "scan_id": "scene0301_00",
+        "target": 28,
+        "anchor": 30,
+        "distactors": [
+            "7",
+            "8"
+        ],
+        "utterance": "curtains behind a world globe"
+    },
+    {
+        "id": "scene0129_00-window-3-19-8-24",
+        "scan_id": "scene0129_00",
+        "target": 19,
+        "anchor": 4,
+        "distactors": [
+            "8",
+            "24"
+        ],
+        "utterance": "The window behind the statue."
+    },
+    {
+        "id": "scene0333_00-chair-2-2-11",
+        "scan_id": "scene0333_00",
+        "target": 2,
+        "anchor": 0,
+        "distactors": [
+            "11"
+        ],
+        "utterance": "The chair is behind the person"
+    },
+    {
+        "id": "scene0429_00-cabinet-2-8-7",
+        "scan_id": "scene0429_00",
+        "target": 8,
+        "anchor": 4,
+        "distactors": [
+            "7"
+        ],
+        "utterance": "The cabinet behind the toilet."
+    },
+    {
+        "id": "scene0143_00-lamp-3-10-14-18",
+        "scan_id": "scene0143_00",
+        "target": 10,
+        "anchor": 17,
+        "distactors": [
+            "14",
+            "18"
+        ],
+        "utterance": "The lamp behind the red chair."
+    },
+    {
+        "id": "scene0576_00-curtain-2-3-27",
+        "scan_id": "scene0576_00",
+        "target": 3,
+        "anchor": 5,
+        "distactors": [
+            "27"
+        ],
+        "utterance": "the curtains behind the chair."
+    },
+    {
+        "id": "scene0166_00-trash_can-3-42-28-30",
+        "scan_id": "scene0166_00",
+        "target": 42,
+        "anchor": 1,
+        "distactors": [
+            "28",
+            "30"
+        ],
+        "utterance": "the trash can behind the desks"
+    },
+    {
+        "id": "scene0604_00-pillow-3-14-13-30",
+        "scan_id": "scene0604_00",
+        "target": 14,
+        "anchor": 1,
+        "distactors": [
+            "13",
+            "30"
+        ],
+        "utterance": "Pillow behind another on couch."
+    },
+    {
+        "id": "scene0136_00-box-4-39-27-28-38",
+        "scan_id": "scene0136_00",
+        "target": 39,
+        "anchor": 4,
+        "distactors": [
+            "27",
+            "28",
+            "38"
+        ],
+        "utterance": "The green box behind the copier"
+    },
+    {
+        "id": "scene0672_00-chair-2-26-1",
+        "scan_id": "scene0672_00",
+        "target": 26,
+        "anchor": 5,
+        "distactors": [
+            "1"
+        ],
+        "utterance": "a dining chair behind the couch"
+    },
+    {
+        "id": "scene0504_00-lamp-2-10-11",
+        "scan_id": "scene0504_00",
+        "target": 10,
+        "anchor": 8,
+        "distactors": [
+            "11"
+        ],
+        "utterance": "the lamp right behind the couch"
+    },
+    {
+        "id": "scene0659_00-toilet_paper-4-16-8-13-15",
+        "scan_id": "scene0659_00",
+        "target": 16,
+        "anchor": 1,
+        "distactors": [
+            "8",
+            "13",
+            "15"
+        ],
+        "utterance": "the left roll behind the toilet"
+    },
+    {
+        "id": "scene0143_00-lamp-3-10-14-18",
+        "scan_id": "scene0143_00",
+        "target": 10,
+        "anchor": 17,
+        "distactors": [
+            "14",
+            "18"
+        ],
+        "utterance": "'The lamp behind the red chair.'"
+    },
+    {
+        "id": "scene0127_00-wardrobe_closet-2-9-8",
+        "scan_id": "scene0127_00",
+        "target": 9,
+        "anchor": 7,
+        "distactors": [
+            "8"
+        ],
+        "utterance": "the cabinet behind the open door"
+    },
+    {
+        "id": "scene0672_00-chair-2-26-1",
+        "scan_id": "scene0672_00",
+        "target": 26,
+        "anchor": 5,
+        "distactors": [
+            "1"
+        ],
+        "utterance": "the white chair behind the couch"
+    },
+    {
+        "id": "scene0161_00-window-2-7-8",
+        "scan_id": "scene0161_00",
+        "target": 7,
+        "anchor": 0,
+        "distactors": [
+            "8"
+        ],
+        "utterance": "the back window behind the table"
+    },
+    {
+        "id": "scene0612_00-bar-2-29-23",
+        "scan_id": "scene0612_00",
+        "target": 29,
+        "anchor": 4,
+        "distactors": [
+            "23"
+        ],
+        "utterance": "the background behind the toilet"
+    },
+    {
+        "id": "scene0305_00-cabinet-6-14-13-16-23-24-31",
+        "scan_id": "scene0305_00",
+        "target": 14,
+        "anchor": 17,
+        "distactors": [
+            "13",
+            "16",
+            "23",
+            "24",
+            "31"
+        ],
+        "utterance": "Tall ones behind the office door"
+    },
+    {
+        "id": "scene0143_00-lamp-3-10-14-18",
+        "scan_id": "scene0143_00",
+        "target": 10,
+        "anchor": 17,
+        "distactors": [
+            "14",
+            "18"
+        ],
+        "utterance": "Select the lamp behind the chair"
+    },
+    {
+        "id": "scene0601_00-sofa_chair-2-18-19",
+        "scan_id": "scene0601_00",
+        "target": 18,
+        "anchor": 11,
+        "distactors": [
+            "19"
+        ],
+        "utterance": "It is the chair behind the door."
+    },
+    {
+        "id": "scene0040_00-desk-3-7-8-9",
+        "scan_id": "scene0040_00",
+        "target": 7,
+        "anchor": 3,
+        "distactors": [
+            "8",
+            "9"
+        ],
+        "utterance": "the desk behind the brown couch."
+    },
+    {
+        "id": "scene0279_00-door-2-12-36",
+        "scan_id": "scene0279_00",
+        "target": 12,
+        "anchor": 48,
+        "distactors": [
+            "36"
+        ],
+        "utterance": "The bathroom door behind the bed."
+    },
+    {
+        "id": "scene0295_00-window-2-11-0",
+        "scan_id": "scene0295_00",
+        "target": 11,
+        "anchor": 5,
+        "distactors": [
+            "0"
+        ],
+        "utterance": "The window behind the single bed."
+    },
+    {
+        "id": "scene0666_00-window-2-7-4",
+        "scan_id": "scene0666_00",
+        "target": 7,
+        "anchor": 71,
+        "distactors": [
+            "4"
+        ],
+        "utterance": "The window behind the wooden desk"
+    },
+    {
+        "id": "scene0238_00-chair-3-11-9-10",
+        "scan_id": "scene0238_00",
+        "target": 11,
+        "anchor": 0,
+        "distactors": [
+            "9",
+            "10"
+        ],
+        "utterance": "The empty chair behind the person."
+    },
+    {
+        "id": "scene0161_00-window-2-7-8",
+        "scan_id": "scene0161_00",
+        "target": 7,
+        "anchor": 6,
+        "distactors": [
+            "8"
+        ],
+        "utterance": "the window behind back of the wall"
+    },
+    {
+        "id": "scene0151_00-doors-2-21-20",
+        "scan_id": "scene0151_00",
+        "target": 21,
+        "anchor": 2,
+        "distactors": [
+            "20"
+        ],
+        "utterance": "The door behind the circular chair"
+    },
+    {
+        "id": "scene0539_00-picture-3-33-31-32",
+        "scan_id": "scene0539_00",
+        "target": 33,
+        "anchor": 10,
+        "distactors": [
+            "31",
+            "32"
+        ],
+        "utterance": "This picture is behind the toilet."
+    },
+    {
+        "id": "scene0284_00-window-2-1-0",
+        "scan_id": "scene0284_00",
+        "target": 1,
+        "anchor": 10,
+        "distactors": [
+            "0"
+        ],
+        "utterance": "behind the two chairs at the table"
+    },
+    {
+        "id": "scene0612_00-bar-2-29-23",
+        "scan_id": "scene0612_00",
+        "target": 29,
+        "anchor": 4,
+        "distactors": [
+            "23"
+        ],
+        "utterance": "The window ledge behind the toilet."
+    },
+    {
+        "id": "scene0656_00-curtain-2-5-4",
+        "scan_id": "scene0656_00",
+        "target": 5,
+        "anchor": 3,
+        "distactors": [
+            "4"
+        ],
+        "utterance": "choose the curtains behind the bed."
+    },
+    {
+        "id": "scene0151_00-radiator-2-23-17",
+        "scan_id": "scene0151_00",
+        "target": 23,
+        "anchor": 2,
+        "distactors": [
+            "17"
+        ],
+        "utterance": "The radiator behind the round chair"
+    },
+    {
+        "id": "scene0305_00-cabinet-6-14-13-16-23-24-31",
+        "scan_id": "scene0305_00",
+        "target": 14,
+        "anchor": 17,
+        "distactors": [
+            "13",
+            "16",
+            "23",
+            "24",
+            "31"
+        ],
+        "utterance": "large cabinet right behind the door"
+    },
+    {
+        "id": "scene0505_00-window-3-3-2-26",
+        "scan_id": "scene0505_00",
+        "target": 3,
+        "anchor": 10,
+        "distactors": [
+            "2",
+            "26"
+        ],
+        "utterance": "The low window behind the 2 chairs."
+    },
+    {
+        "id": "scene0656_00-curtain-2-5-4",
+        "scan_id": "scene0656_00",
+        "target": 5,
+        "anchor": 3,
+        "distactors": [
+            "4"
+        ],
+        "utterance": "the curtain directly behind the bed"
+    },
+    {
+        "id": "scene0315_00-plant-2-40-39",
+        "scan_id": "scene0315_00",
+        "target": 40,
+        "anchor": 0,
+        "distactors": [
+            "39"
+        ],
+        "utterance": "Large plant in corner behind couch."
+    },
+    {
+        "id": "scene0301_00-curtain-3-28-7-8",
+        "scan_id": "scene0301_00",
+        "target": 28,
+        "anchor": 30,
+        "distactors": [
+            "7",
+            "8"
+        ],
+        "utterance": "The dark curtains behind the globe."
+    },
+    {
+        "id": "scene0576_00-curtain-2-3-27",
+        "scan_id": "scene0576_00",
+        "target": 3,
+        "anchor": 5,
+        "distactors": [
+            "27"
+        ],
+        "utterance": "It is the curtains behind the chair."
+    },
+    {
+        "id": "scene0352_00-whiteboard-2-29-18",
+        "scan_id": "scene0352_00",
+        "target": 29,
+        "anchor": 7,
+        "distactors": [
+            "18"
+        ],
+        "utterance": "The whiteboard behind the open door."
+    },
+    {
+        "id": "scene0666_00-bookshelf-2-69-68",
+        "scan_id": "scene0666_00",
+        "target": 69,
+        "anchor": 2,
+        "distactors": [
+            "68"
+        ],
+        "utterance": "The bookshelf behind the step stool."
+    },
+    {
+        "id": "scene0006_00-curtain-3-32-3-31",
+        "scan_id": "scene0006_00",
+        "target": 32,
+        "anchor": 33,
+        "distactors": [
+            "3",
+            "31"
+        ],
+        "utterance": "The curtains behind the round table."
+    },
+    {
+        "id": "scene0186_00-radiator-2-44-11",
+        "scan_id": "scene0186_00",
+        "target": 44,
+        "anchor": 25,
+        "distactors": [
+            "11"
+        ],
+        "utterance": "select the radiator behind the table"
+    },
+    {
+        "id": "scene0576_00-curtain-2-3-27",
+        "scan_id": "scene0576_00",
+        "target": 3,
+        "anchor": 5,
+        "distactors": [
+            "27"
+        ],
+        "utterance": "smaller curtain behind the armchair."
+    },
+    {
+        "id": "scene0576_00-curtain-2-3-27",
+        "scan_id": "scene0576_00",
+        "target": 3,
+        "anchor": 6,
+        "distactors": [
+            "27"
+        ],
+        "utterance": "smaller curtain behind the armchair."
+    },
+    {
+        "id": "scene0143_00-curtain-2-6-5",
+        "scan_id": "scene0143_00",
+        "target": 6,
+        "anchor": 17,
+        "distactors": [
+            "5"
+        ],
+        "utterance": "the curtains behind the orange chair"
+    },
+    {
+        "id": "scene0449_00-towel-4-16-5-7-19",
+        "scan_id": "scene0449_00",
+        "target": 16,
+        "anchor": 9,
+        "distactors": [
+            "5",
+            "7",
+            "19"
+        ],
+        "utterance": "The towel hanging behind the toilet."
+    },
+    {
+        "id": "scene0498_00-box-2-20-9",
+        "scan_id": "scene0498_00",
+        "target": 20,
+        "anchor": 19,
+        "distactors": [
+            "9"
+        ],
+        "utterance": "The box behind all of the other boxes"
+    },
+    {
+        "id": "scene0301_00-curtain-3-28-7-8",
+        "scan_id": "scene0301_00",
+        "target": 28,
+        "anchor": 30,
+        "distactors": [
+            "7",
+            "8"
+        ],
+        "utterance": "The smaller curtains behind the globe"
+    },
+    {
+        "id": "scene0225_00-trash_can-6-2-0-1-3-31-32",
+        "scan_id": "scene0225_00",
+        "target": 2,
+        "anchor": 30,
+        "distactors": [
+            "0",
+            "1",
+            "3",
+            "31",
+            "32"
+        ],
+        "utterance": "The trash can behind the black chair."
+    },
+    {
+        "id": "scene0576_00-curtain-2-27-3",
+        "scan_id": "scene0576_00",
+        "target": 27,
+        "anchor": 4,
+        "distactors": [
+            "3"
+        ],
+        "utterance": "bright bluish curtain behind the desk"
+    },
+    {
+        "id": "scene0687_00-window-2-19-4",
+        "scan_id": "scene0687_00",
+        "target": 19,
+        "anchor": 30,
+        "distactors": [
+            "4"
+        ],
+        "utterance": "the slight window behind the trash can"
+    },
+    {
+        "id": "scene0143_00-lamp-3-10-14-18",
+        "scan_id": "scene0143_00",
+        "target": 10,
+        "anchor": 7,
+        "distactors": [
+            "14",
+            "18"
+        ],
+        "utterance": "Find the lamp behind the red armchair."
+    },
+    {
+        "id": "scene0143_00-lamp-3-10-14-18",
+        "scan_id": "scene0143_00",
+        "target": 10,
+        "anchor": 17,
+        "distactors": [
+            "14",
+            "18"
+        ],
+        "utterance": "Find the lamp behind the red armchair."
+    },
+    {
+        "id": "scene0143_00-picture-2-19-13",
+        "scan_id": "scene0143_00",
+        "target": 19,
+        "anchor": 17,
+        "distactors": [
+            "13"
+        ],
+        "utterance": "The picture over/behind the sofa chair"
+    },
+    {
+        "id": "scene0049_00-picture-4-20-0-18-19",
+        "scan_id": "scene0049_00",
+        "target": 20,
+        "anchor": 8,
+        "distactors": [
+            "0",
+            "18",
+            "19"
+        ],
+        "utterance": "The yellowish picture behind the couch"
+    },
+    {
+        "id": "scene0656_00-curtain-2-4-5",
+        "scan_id": "scene0656_00",
+        "target": 4,
+        "anchor": 31,
+        "distactors": [
+            "5"
+        ],
+        "utterance": "NOT the curtains behind the headboard."
+    },
+    {
+        "id": "scene0560_00-window-2-10-24",
+        "scan_id": "scene0560_00",
+        "target": 10,
+        "anchor": 2,
+        "distactors": [
+            "24"
+        ],
+        "utterance": "The window behind the pillow on the bed"
+    },
+    {
+        "id": "scene0515_00-bar-4-59-62-70-71",
+        "scan_id": "scene0515_00",
+        "target": 59,
+        "anchor": 12,
+        "distactors": [
+            "62",
+            "70",
+            "71"
+        ],
+        "utterance": "The bar next to, not behind, the toilet."
+    },
+    {
+        "id": "scene0062_00-rail-2-18-17",
+        "scan_id": "scene0062_00",
+        "target": 18,
+        "anchor": 12,
+        "distactors": [
+            "17"
+        ],
+        "utterance": "It's the rail directly behind the toilet"
+    },
+    {
+        "id": "scene0295_00-window-2-11-0",
+        "scan_id": "scene0295_00",
+        "target": 11,
+        "anchor": 5,
+        "distactors": [
+            "0"
+        ],
+        "utterance": "The left window directly behind the bed."
+    },
+    {
+        "id": "scene0352_00-whiteboard-2-29-18",
+        "scan_id": "scene0352_00",
+        "target": 29,
+        "anchor": 7,
+        "distactors": [
+            "18"
+        ],
+        "utterance": "This whiteboard is behind the open door."
+    },
+    {
+        "id": "scene0672_00-chair-2-26-1",
+        "scan_id": "scene0672_00",
+        "target": 26,
+        "anchor": 5,
+        "distactors": [
+            "1"
+        ],
+        "utterance": "The plain chair that is behind the couch"
+    },
+    {
+        "id": "scene0132_00-picture-3-17-19-20",
+        "scan_id": "scene0132_00",
+        "target": 17,
+        "anchor": 2,
+        "distactors": [
+            "19",
+            "20"
+        ],
+        "utterance": "The picture behind the half circle couch"
+    },
+    {
+        "id": "scene0465_00-window-2-3-26",
+        "scan_id": "scene0465_00",
+        "target": 3,
+        "anchor": 18,
+        "distactors": [
+            "26"
+        ],
+        "utterance": "The window behind the dining room table."
+    },
+    {
+        "id": "scene0127_00-wardrobe_closet-2-9-8",
+        "scan_id": "scene0127_00",
+        "target": 9,
+        "anchor": 7,
+        "distactors": [
+            "8"
+        ],
+        "utterance": "The wardrobe behind the door that is open"
+    },
+    {
+        "id": "scene0419_00-chair-2-7-1",
+        "scan_id": "scene0419_00",
+        "target": 7,
+        "anchor": 16,
+        "distactors": [
+            "1"
+        ],
+        "utterance": "The chair behind the desk and red chairs."
+    },
+    {
+        "id": "scene0272_00-chair-3-5-3-4",
+        "scan_id": "scene0272_00",
+        "target": 5,
+        "anchor": 0,
+        "distactors": [
+            "3",
+            "4"
+        ],
+        "utterance": "A black desk chair sitting behind a desk."
+    },
+    {
+        "id": "scene0225_00-trash_can-6-2-0-1-3-31-32",
+        "scan_id": "scene0225_00",
+        "target": 2,
+        "anchor": 30,
+        "distactors": [
+            "0",
+            "1",
+            "3",
+            "31",
+            "32"
+        ],
+        "utterance": "It is the trash can tucked behind a chair."
+    },
+    {
+        "id": "scene0612_00-bar-2-29-23",
+        "scan_id": "scene0612_00",
+        "target": 29,
+        "anchor": 4,
+        "distactors": [
+            "23"
+        ],
+        "utterance": "The bar behind the toilet under the window"
+    },
+    {
+        "id": "scene0612_00-bar-2-29-23",
+        "scan_id": "scene0612_00",
+        "target": 29,
+        "anchor": 28,
+        "distactors": [
+            "23"
+        ],
+        "utterance": "The bar behind the toilet under the window"
+    },
+    {
+        "id": "scene0047_00-door-4-21-15-20-41",
+        "scan_id": "scene0047_00",
+        "target": 21,
+        "anchor": 24,
+        "distactors": [
+            "15",
+            "20",
+            "41"
+        ],
+        "utterance": "The smaller door behind the blue trash can"
+    },
+    {
+        "id": "scene0521_00-curtain-3-16-22-46",
+        "scan_id": "scene0521_00",
+        "target": 16,
+        "anchor": 2,
+        "distactors": [
+            "22",
+            "46"
+        ],
+        "utterance": "The curtains behind the pillows on the bed"
+    },
+    {
+        "id": "scene0560_00-door-5-16-3-12-14-20",
+        "scan_id": "scene0560_00",
+        "target": 16,
+        "anchor": 18,
+        "distactors": [
+            "3",
+            "12",
+            "14",
+            "20"
+        ],
+        "utterance": "door in the corner behind the rolly chair."
+    },
+    {
+        "id": "scene0547_00-towel-2-16-15",
+        "scan_id": "scene0547_00",
+        "target": 16,
+        "anchor": 10,
+        "distactors": [
+            "15"
+        ],
+        "utterance": "This towel is hanging behind the open door."
+    },
+    {
+        "id": "scene0465_00-window-2-3-26",
+        "scan_id": "scene0465_00",
+        "target": 3,
+        "anchor": 18,
+        "distactors": [
+            "26"
+        ],
+        "utterance": "Choose the window behind the kitchen table."
+    },
+    {
+        "id": "scene0547_00-towel-2-16-15",
+        "scan_id": "scene0547_00",
+        "target": 16,
+        "anchor": 10,
+        "distactors": [
+            "15"
+        ],
+        "utterance": "This is a darker towel behind the open door"
+    },
+    {
+        "id": "scene0296_00-lamp-2-48-19",
+        "scan_id": "scene0296_00",
+        "target": 48,
+        "anchor": 30,
+        "distactors": [
+            "19"
+        ],
+        "utterance": "It is the lamp that is behind the armchair."
+    },
+    {
+        "id": "scene0617_00-plant-2-22-21",
+        "scan_id": "scene0617_00",
+        "target": 22,
+        "anchor": 0,
+        "distactors": [
+            "21"
+        ],
+        "utterance": "plant behind the couch standing on the shelf"
+    },
+    {
+        "id": "scene0617_00-plant-2-22-21",
+        "scan_id": "scene0617_00",
+        "target": 22,
+        "anchor": 8,
+        "distactors": [
+            "21"
+        ],
+        "utterance": "plant behind the couch standing on the shelf"
+    },
+    {
+        "id": "scene0143_00-curtain-2-6-5",
+        "scan_id": "scene0143_00",
+        "target": 6,
+        "anchor": 17,
+        "distactors": [
+            "5"
+        ],
+        "utterance": "white curtain directly behind the red chair."
+    }
+]

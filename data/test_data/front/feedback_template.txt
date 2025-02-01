@@ -1,0 +1,3 @@
+# Case {idx}.
+
+Object {target_loc} is in front of object {anchor_loc}. So metric value of object {target_loc} "in front of" object {anchor_loc} should be larger than 0 and metric value of object {pred_loc} "in front of" object {pred_anchor_loc} should be 0.

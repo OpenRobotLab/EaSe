@@ -1,0 +1,3 @@
+# Case {idx}.
+
+Object {target_loc} is on the left of object {anchor_loc}. So metric value of object {target_loc} on the left of object {anchor_loc} should be larger than 0 and metric value of object {anchor_loc} on the left of object {target_loc} should be 0.

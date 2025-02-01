@@ -1,0 +1,5 @@
+# Case {idx}.
+
+Object {target_loc} is between object {anchor_loc} and object {pred_loc}. So the metric value of object {target_loc} "between" object {anchor_loc} and {pred_loc} should be larger.
+
+Metric value of Object {target_loc} is between object {anchor_loc} and object {pred_loc} muse be positive.

@@ -1,0 +1,94 @@
+You are an expert on spatial relation analysis and code generation.
+
+# Introduction to task
+Your task is to write a Python class which can be used to compute the metric value of the existence of some spatial relationship between two objects in a 3D scene given their positions and sizes. Higher the metric value, higher the probability of the two objects have that relation. 
+
+In the class, you will be given the positions and sizes of the objects in the scene. The class should have a method `forward` which returns a tensor of shape (N, N), where element (i, j) is the metric value of the relation between object i and object j.
+
+In the 3D scene, x-y plane is the horizontal plane, z-axis is the vertical axis. 
+
+# Introduction to programming environment
+
+Here is an example class for `Front` relation. The class you write should have the same structure as the example class.
+
+```python
+class Front:
+    def __init__(self, object_locations: torch.Tensor) -> None:
+        """
+        Args:
+            object_locations: torch.Tensor, shape (N, 6), N is the number of objects in the scene.
+                The first three columns are the center of the object, the last three columns are the size of the object.
+        """
+        self.object_locations = object_locations.to(DEVICE)
+        self._init_params()
+    
+    def _init_params(self) -> None:
+        """
+        Initialize necessary parameters for calculating 'in front of' relation.
+        """
+        # Calculate center and size for each object
+        self.centers = self.object_locations[:, :3]
+        self.sizes = self.object_locations[:, 3:]
+    
+    def forward(self) -> torch.Tensor:
+        """
+        Returns a tensor of shape (N, N), where element (i, j) is the metric value
+        of the 'in front of' relation between object i and object j.
+        """
+        num_objects = self.centers.shape[0]
+
+        # Create a grid for pairwise comparisons
+        centers_i = self.centers.unsqueeze(1)  # Shape: (N, 1, 3)
+        centers_j = self.centers.unsqueeze(0)  # Shape: (1, N, 3)
+
+        # Vector from object j to object i
+        direction_vectors = centers_i - centers_j  # Shape: (N, N, 3)
+
+        # Normalize the direction vectors
+        norm_direction_vectors = direction_vectors / direction_vectors.norm(dim=2, keepdim=True)  # Shape: (N, N, 3)
+
+        # Considering object sizes in the horizontal plane (x-y)
+        size_ratios_i = self.sizes[:, :2].norm(dim=1)  # Shape: (N,)
+        size_ratios_j = self.sizes[:, :2].norm(dim=1)  # Shape: (N,)
+        
+        size_ratios_i = size_ratios_i.unsqueeze(1)  # Shape: (N, 1)
+        size_ratios_j = size_ratios_j.unsqueeze(0)  # Shape: (1, N)
+
+        # Calculate horizontal distances
+        dx = centers_i[:, :, 0] - centers_j[:, :, 0]  # Shape: (N, N)
+        dy = centers_i[:, :, 1] - centers_j[:, :, 1]  # Shape: (N, N)
+        horizontal_distances = torch.sqrt(dx**2 + dy**2)  # Shape: (N, N)
+
+        # Calculate alignment score
+        alignment_scores = (norm_direction_vectors[:, :, :2] * torch.stack((dx, dy), dim=2) / horizontal_distances.unsqueeze(2)).sum(dim=2)  # Shape: (N, N)
+        
+        # Calculate size influence
+        size_influences = size_ratios_i + size_ratios_j  # Shape: (N, N)
+        influence_factors = size_influences / (horizontal_distances + 1e-6)  # Shape: (N, N), avoiding division by zero
+
+        # Final metric, scaled and thresholded
+        metrics = torch.relu(alignment_scores) * influence_factors  # Shape: (N, N)
+
+        # Ensure no self-comparison
+        metrics.fill_diagonal_(0)
+
+        return metrics
+```
+Make sure all tensors are placed on `DEVICE`, which has been defined in the environment.
+The code output should be formatted as a python code string: "```python ... ```".
+
+# Some helpful tips
+
+(1) You should only use the given variables, and you should not introduce new variables.
+(2) The metric value should be sensitive to the input arguments, which means if the arguments change a little, the value should change a lot.
+(3) The metric value should be 0 if the two objects don't have that relation, never set negative values!
+(4) Never treat an object as its center point, you must consider the size of the bounding box, just like the example code. Never set an threshold to determine the relation. The value of the relation should be continuous and sparse. 
+(5) You should imagine that you are at the center of the scene to determine the relative positions. You should consider more on horizontal plane(x-y plane) than the vertical axis(z-axis).
+(6) Remember you are **in** the scene and look around, not look from the top. So never use the same way as 2D environment.
+(7) Don't use any axis or specific direction as the reference of "behind" direction, your method should work for any prespectives.
+(8) Consider the distance between the objects and the size of the objects if necessary for compute the value better.
+
+Now I will give you your task. Remember above guidelines and write the Python class which can compute the probability of spatial relation among multiple 3D objects in a scene. Don't re-define `Front` class in your code. It has been defined.
+
+Propose your method first and then generate the code. Think step by step.
+Don't use any axis or specific direction as the reference direction or behind direction, your method should work for any prespectives.

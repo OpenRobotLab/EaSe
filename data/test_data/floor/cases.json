@@ -1,0 +1,2209 @@
+[
+    {
+        "type": "binary",
+        "dataset_idx": 1765,
+        "relation_name": "above",
+        "target_category": "lamp",
+        "scan_id": "scene0677_00",
+        "sentence": "the lamp on the desk",
+        "json_obj": {
+            "category": "lamp",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "desk",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2024,
+        "relation_name": "above",
+        "target_category": "cup",
+        "scan_id": "scene0040_00",
+        "sentence": "The cup on the desk.",
+        "json_obj": {
+            "category": "cup",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "desk",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5099,
+        "relation_name": "above",
+        "target_category": "box",
+        "scan_id": "scene0521_00",
+        "sentence": "the box on the shelf",
+        "json_obj": {
+            "category": "box",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "shelf",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6080,
+        "relation_name": "above",
+        "target_category": "board",
+        "scan_id": "scene0226_00",
+        "sentence": "The board with paper",
+        "json_obj": {
+            "category": "board",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "paper",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2638,
+        "relation_name": "above",
+        "target_category": "backpack",
+        "scan_id": "scene0101_00",
+        "sentence": "Backpack on the couch",
+        "json_obj": {
+            "category": "backpack",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "couch",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6124,
+        "relation_name": "above",
+        "target_category": "purse",
+        "scan_id": "scene0476_00",
+        "sentence": "the purse on the desk",
+        "json_obj": {
+            "category": "purse",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "desk",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1081,
+        "relation_name": "above",
+        "target_category": "pillow",
+        "scan_id": "scene0604_00",
+        "sentence": "The pillow on the bed.",
+        "json_obj": {
+            "category": "pillow",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "bed",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4827,
+        "relation_name": "above",
+        "target_category": "frame",
+        "scan_id": "scene0232_00",
+        "sentence": "The frame above toilet",
+        "json_obj": {
+            "category": "frame",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "toilet",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5601,
+        "relation_name": "above",
+        "target_category": "towel",
+        "scan_id": "scene0415_00",
+        "sentence": "The towel on the sink.",
+        "json_obj": {
+            "category": "towel",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "sink",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 11,
+        "relation_name": "above",
+        "target_category": "pillow",
+        "scan_id": "scene0296_00",
+        "sentence": "The pillow on the couch",
+        "json_obj": {
+            "category": "pillow",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "couch",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2562,
+        "relation_name": "above",
+        "target_category": "box",
+        "scan_id": "scene0635_00",
+        "sentence": "the box is on the dolly",
+        "json_obj": {
+            "category": "box",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "dolly",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2735,
+        "relation_name": "above",
+        "target_category": "lamp",
+        "scan_id": "scene0209_00",
+        "sentence": "This lamp is on a desk.",
+        "json_obj": {
+            "category": "lamp",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "desk",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3124,
+        "relation_name": "above",
+        "target_category": "mirror",
+        "scan_id": "scene0612_00",
+        "sentence": "Mirror right above sink",
+        "json_obj": {
+            "category": "mirror",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "sink",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3599,
+        "relation_name": "above",
+        "target_category": "towel",
+        "scan_id": "scene0515_00",
+        "sentence": "The towel on the stove.",
+        "json_obj": {
+            "category": "towel",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "stove",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4749,
+        "relation_name": "above",
+        "target_category": "mirror",
+        "scan_id": "scene0250_00",
+        "sentence": "Mirror right above sink",
+        "json_obj": {
+            "category": "mirror",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "sink",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 455,
+        "relation_name": "above",
+        "target_category": "pillow",
+        "scan_id": "scene0072_00",
+        "sentence": "the pillow is on the bed",
+        "json_obj": {
+            "category": "pillow",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "bed",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1580,
+        "relation_name": "above",
+        "target_category": "window",
+        "scan_id": "scene0615_00",
+        "sentence": "The window above the bed",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "bed",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1918,
+        "relation_name": "above",
+        "target_category": "laptop",
+        "scan_id": "scene0673_00",
+        "sentence": "The laptop on the couch.",
+        "json_obj": {
+            "category": "laptop",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "couch",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2291,
+        "relation_name": "above",
+        "target_category": "box",
+        "scan_id": "scene0582_00",
+        "sentence": "It is the box on a desk.",
+        "json_obj": {
+            "category": "box",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "desk",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4066,
+        "relation_name": "above",
+        "target_category": "cabinet",
+        "scan_id": "scene0348_00",
+        "sentence": "cabinet above the fridge",
+        "json_obj": {
+            "category": "cabinet",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "fridge",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4823,
+        "relation_name": "above",
+        "target_category": "cabinet",
+        "scan_id": "scene0429_00",
+        "sentence": "cabinet above the toilet",
+        "json_obj": {
+            "category": "cabinet",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "toilet",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5189,
+        "relation_name": "above",
+        "target_category": "window",
+        "scan_id": "scene0336_00",
+        "sentence": "The window above dresser",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "dresser",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5902,
+        "relation_name": "above",
+        "target_category": "lamp",
+        "scan_id": "scene0091_00",
+        "sentence": "lamp hanging above table",
+        "json_obj": {
+            "category": "lamp",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "table",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6305,
+        "relation_name": "above",
+        "target_category": "cabinet",
+        "scan_id": "scene0348_00",
+        "sentence": "Cabinet above the cooker",
+        "json_obj": {
+            "category": "cabinet",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "cooker",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 120,
+        "relation_name": "above",
+        "target_category": "lamp",
+        "scan_id": "scene0640_00",
+        "sentence": "'The lamp over the desk.'",
+        "json_obj": {
+            "category": "lamp",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "desk",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1523,
+        "relation_name": "above",
+        "target_category": "window",
+        "scan_id": "scene0383_00",
+        "sentence": "the window above the door",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "door",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1570,
+        "relation_name": "above",
+        "target_category": "mirror",
+        "scan_id": "scene0279_00",
+        "sentence": "The mirror above the sink",
+        "json_obj": {
+            "category": "mirror",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "sink",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2386,
+        "relation_name": "above",
+        "target_category": "towel",
+        "scan_id": "scene0410_00",
+        "sentence": "The towel on the bathtub.",
+        "json_obj": {
+            "category": "towel",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "bathtub",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2828,
+        "relation_name": "above",
+        "target_category": "towel",
+        "scan_id": "scene0410_00",
+        "sentence": "The towel on the bath tub",
+        "json_obj": {
+            "category": "towel",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "bath tub",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3278,
+        "relation_name": "above",
+        "target_category": "books",
+        "scan_id": "scene0369_00",
+        "sentence": "bunch of books on the bed",
+        "json_obj": {
+            "category": "books",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "bed",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4054,
+        "relation_name": "above",
+        "target_category": "box",
+        "scan_id": "scene0142_00",
+        "sentence": "It is the box on a table.",
+        "json_obj": {
+            "category": "box",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "table",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4664,
+        "relation_name": "above",
+        "target_category": "sign",
+        "scan_id": "scene0394_00",
+        "sentence": "The sign over the dresser",
+        "json_obj": {
+            "category": "sign",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "dresser",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5744,
+        "relation_name": "above",
+        "target_category": "window",
+        "scan_id": "scene0529_00",
+        "sentence": "The window over the sink.",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "sink",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5766,
+        "relation_name": "above",
+        "target_category": "window",
+        "scan_id": "scene0274_00",
+        "sentence": "The window above the door",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "door",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6545,
+        "relation_name": "above",
+        "target_category": "windows",
+        "scan_id": "scene0295_00",
+        "sentence": "the windows above the cot",
+        "json_obj": {
+            "category": "windows",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "cot",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 91,
+        "relation_name": "above",
+        "target_category": "lamp",
+        "scan_id": "scene0282_00",
+        "sentence": "'The lamp on the dresser.'",
+        "json_obj": {
+            "category": "lamp",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "dresser",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1699,
+        "relation_name": "above",
+        "target_category": "rail",
+        "scan_id": "scene0062_00",
+        "sentence": "The rail above the toilet.",
+        "json_obj": {
+            "category": "rail",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "toilet",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3571,
+        "relation_name": "above",
+        "target_category": "pillow",
+        "scan_id": "scene0101_00",
+        "sentence": "This pillow is on a couch.",
+        "json_obj": {
+            "category": "pillow",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "couch",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3966,
+        "relation_name": "above",
+        "target_category": "towel",
+        "scan_id": "scene0410_00",
+        "sentence": "the towel above the toilet",
+        "json_obj": {
+            "category": "towel",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "toilet",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4597,
+        "relation_name": "above",
+        "target_category": "window",
+        "scan_id": "scene0505_00",
+        "sentence": "The window above the door.",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "door",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+ 
+    {
+        "type": "binary",
+        "dataset_idx": 2405,
+        "relation_name": "above",
+        "target_category": "mirror",
+        "scan_id": "scene0096_00",
+        "sentence": "the mirror above the toilet",
+        "json_obj": {
+            "category": "mirror",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "toilet",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2524,
+        "relation_name": "above",
+        "target_category": "picture frame",
+        "scan_id": "scene0590_00",
+        "sentence": "The picture frame above bed",
+        "json_obj": {
+            "category": "picture frame",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "bed",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3084,
+        "relation_name": "above",
+        "target_category": "shelves",
+        "scan_id": "scene0515_00",
+        "sentence": "The shelves above the desk.",
+        "json_obj": {
+            "category": "shelves",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "desk",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4499,
+        "relation_name": "above",
+        "target_category": "lamp",
+        "scan_id": "scene0679_00",
+        "sentence": "the lamp is above the chair",
+        "json_obj": {
+            "category": "lamp",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "chair",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4604,
+        "relation_name": "above",
+        "target_category": "lamp",
+        "scan_id": "scene0137_00",
+        "sentence": "the lamp on top of the desk",
+        "json_obj": {
+            "category": "lamp",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "desk",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4815,
+        "relation_name": "above",
+        "target_category": "lamp",
+        "scan_id": "scene0282_00",
+        "sentence": "lamp on top of the dresser.",
+        "json_obj": {
+            "category": "lamp",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "dresser",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4899,
+        "relation_name": "above",
+        "target_category": "window",
+        "scan_id": "scene0614_00",
+        "sentence": "window on top of the shelf.",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "shelf",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5336,
+        "relation_name": "above",
+        "target_category": "lamp",
+        "scan_id": "scene0296_00",
+        "sentence": "choose the lamp on the wall",
+        "json_obj": {
+            "category": "lamp",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "wall",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+
+    {
+        "type": "binary",
+        "dataset_idx": 5876,
+        "relation_name": "above",
+        "target_category": "soap dish",
+        "scan_id": "scene0446_00",
+        "sentence": "The right soap dish on sink",
+        "json_obj": {
+            "category": "soap dish",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "sink",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6754,
+        "relation_name": "above",
+        "target_category": "lamp",
+        "scan_id": "scene0537_00",
+        "sentence": "The lamp on a higher shelf.",
+        "json_obj": {
+            "category": "lamp",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "shelf",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6792,
+        "relation_name": "above",
+        "target_category": "artwork",
+        "scan_id": "scene0250_00",
+        "sentence": "the artwork above the towel",
+        "json_obj": {
+            "category": "artwork",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "towel",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 146,
+        "relation_name": "above",
+        "target_category": "towel",
+        "scan_id": "scene0265_00",
+        "sentence": "the towel hangs over the tub",
+        "json_obj": {
+            "category": "towel",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "tub",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 227,
+        "relation_name": "above",
+        "target_category": "cabinet",
+        "scan_id": "scene0522_00",
+        "sentence": "The cabinet above the closet",
+        "json_obj": {
+            "category": "cabinet",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "closet",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 532,
+        "relation_name": "above",
+        "target_category": "towel",
+        "scan_id": "scene0676_00",
+        "sentence": "The towel above the bathtub.",
+        "json_obj": {
+            "category": "towel",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "bathtub",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 545,
+        "relation_name": "above",
+        "target_category": "stool",
+        "scan_id": "scene0335_00",
+        "sentence": "The stool with a plant on it",
+        "json_obj": {
+            "category": "stool",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "plant",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1596,
+        "relation_name": "above",
+        "target_category": "picture",
+        "scan_id": "scene0096_00",
+        "sentence": "the picture on the staircase",
+        "json_obj": {
+            "category": "picture",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "staircase",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1668,
+        "relation_name": "above",
+        "target_category": "curtains",
+        "scan_id": "scene0367_00",
+        "sentence": "the curtains above the table",
+        "json_obj": {
+            "category": "curtains",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "table",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1908,
+        "relation_name": "above",
+        "target_category": "blanket",
+        "scan_id": "scene0233_00",
+        "sentence": "The messy blanket on the bed",
+        "json_obj": {
+            "category": "blanket",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "bed",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1929,
+        "relation_name": "above",
+        "target_category": "picture",
+        "scan_id": "scene0232_00",
+        "sentence": "the picture above the toilet",
+        "json_obj": {
+            "category": "picture",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "toilet",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2260,
+        "relation_name": "above",
+        "target_category": "chair",
+        "scan_id": "scene0379_00",
+        "sentence": "the chair with the box on it",
+        "json_obj": {
+            "category": "chair",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "box",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2300,
+        "relation_name": "above",
+        "target_category": "cabinets",
+        "scan_id": "scene0409_00",
+        "sentence": "the cabinets above the stove",
+        "json_obj": {
+            "category": "cabinets",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "stove",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2425,
+        "relation_name": "above",
+        "target_category": "plant",
+        "scan_id": "scene0309_00",
+        "sentence": "The plant on top of the desk",
+        "json_obj": {
+            "category": "plant",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "desk",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2530,
+        "relation_name": "above",
+        "target_category": "windows",
+        "scan_id": "scene0529_00",
+        "sentence": "the windows above the couch.",
+        "json_obj": {
+            "category": "windows",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "couch",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4251,
+        "relation_name": "above",
+        "target_category": "cabinets",
+        "scan_id": "scene0197_00",
+        "sentence": "The cabinets above the sink.",
+        "json_obj": {
+            "category": "cabinets",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "sink",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4817,
+        "relation_name": "above",
+        "target_category": "curtains",
+        "scan_id": "scene0521_00",
+        "sentence": "curtains above the headboard",
+        "json_obj": {
+            "category": "curtains",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "headboard",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5322,
+        "relation_name": "above",
+        "target_category": "pillows",
+        "scan_id": "scene0101_00",
+        "sentence": "Pick the pillows on the bed.",
+        "json_obj": {
+            "category": "pillows",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "bed",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5385,
+        "relation_name": "above",
+        "target_category": "lamp",
+        "scan_id": "scene0006_00",
+        "sentence": "This lamp is on a work-desk.",
+        "json_obj": {
+            "category": "lamp",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "desk",
+                            "color": "work",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5591,
+        "relation_name": "above",
+        "target_category": "window",
+        "scan_id": "scene0391_00",
+        "sentence": "the window above the cubicle",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "cubicle",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6002,
+        "relation_name": "above",
+        "target_category": "picture",
+        "scan_id": "scene0096_00",
+        "sentence": "the picture above the stairs",
+        "json_obj": {
+            "category": "picture",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "stairs",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6097,
+        "relation_name": "above",
+        "target_category": "lamp",
+        "scan_id": "scene0128_00",
+        "sentence": "There's a lamp on this shelf",
+        "json_obj": {
+            "category": "lamp",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "shelf",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1499,
+        "relation_name": "above",
+        "target_category": "picture",
+        "scan_id": "scene0560_00",
+        "sentence": "the picture above the dresser",
+        "json_obj": {
+            "category": "picture",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "dresser",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1785,
+        "relation_name": "above",
+        "target_category": "cabinets",
+        "scan_id": "scene0288_00",
+        "sentence": "The cabinets above the stove.",
+        "json_obj": {
+            "category": "cabinets",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "stove",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3013,
+        "relation_name": "above",
+        "target_category": "counter",
+        "scan_id": "scene0348_00",
+        "sentence": "the counter with a sink on it",
+        "json_obj": {
+            "category": "counter",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "sink",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3029,
+        "relation_name": "above",
+        "target_category": "lamp",
+        "scan_id": "scene0209_00",
+        "sentence": "choose the lamp on the table.",
+        "json_obj": {
+            "category": "lamp",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "table",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3591,
+        "relation_name": "above",
+        "target_category": "table",
+        "scan_id": "scene0585_00",
+        "sentence": "The table with printers on it",
+        "json_obj": {
+            "category": "table",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "printer",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3874,
+        "relation_name": "above",
+        "target_category": "microwave",
+        "scan_id": "scene0335_00",
+        "sentence": "The microwave on the counter.",
+        "json_obj": {
+            "category": "microwave",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "counter",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4129,
+        "relation_name": "above",
+        "target_category": "lamp",
+        "scan_id": "scene0213_00",
+        "sentence": "The lamp sitting on the table",
+        "json_obj": {
+            "category": "lamp",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "table",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4706,
+        "relation_name": "above",
+        "target_category": "books",
+        "scan_id": "scene0614_00",
+        "sentence": "The books on top of the desk.",
+        "json_obj": {
+            "category": "books",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "desk",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4837,
+        "relation_name": "above",
+        "target_category": "oven",
+        "scan_id": "scene0433_00",
+        "sentence": "the oven above the other oven",
+        "json_obj": {
+            "category": "oven",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "oven",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5017,
+        "relation_name": "above",
+        "target_category": "cabinets",
+        "scan_id": "scene0003_00",
+        "sentence": "the cabinets above the fridge",
+        "json_obj": {
+            "category": "cabinets",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "fridge",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5088,
+        "relation_name": "above",
+        "target_category": "cabinets",
+        "scan_id": "scene0529_00",
+        "sentence": "The cabinets above the stove.",
+        "json_obj": {
+            "category": "cabinets",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "stove",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6295,
+        "relation_name": "above",
+        "target_category": "books",
+        "scan_id": "scene0489_00",
+        "sentence": "the books on the bottom shelf",
+        "json_obj": {
+            "category": "books",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "shelf",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6618,
+        "relation_name": "above",
+        "target_category": "book",
+        "scan_id": "scene0525_00",
+        "sentence": "The book on the middle shelf.",
+        "json_obj": {
+            "category": "book",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "shelf",
+                            "relations": [],
+                            "shape": "middle"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 49,
+        "relation_name": "above",
+        "target_category": "lamp",
+        "scan_id": "scene0002_00",
+        "sentence": "'The lamp on the upper level.'",
+        "json_obj": {
+            "category": "lamp",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "level",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 522,
+        "relation_name": "above",
+        "target_category": "pillow",
+        "scan_id": "scene0296_00",
+        "sentence": "The pillow on the coffee table",
+        "json_obj": {
+            "category": "pillow",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "table",
+                            "color": "coffee",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1093,
+        "relation_name": "above",
+        "target_category": "backpack",
+        "scan_id": "scene0059_00",
+        "sentence": "The backpack on the big couch.",
+        "json_obj": {
+            "category": "backpack",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "couch",
+                            "relations": [],
+                            "shape": "big"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1232,
+        "relation_name": "above",
+        "target_category": "window",
+        "scan_id": "scene0261_00",
+        "sentence": "A window is over this cabinet.",
+        "json_obj": {
+            "category": "window",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "cabinet",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1806,
+        "relation_name": "above",
+        "target_category": "backpack",
+        "scan_id": "scene0296_00",
+        "sentence": "This backpack is on the couch.",
+        "json_obj": {
+            "category": "backpack",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "couch",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1910,
+        "relation_name": "above",
+        "target_category": "towel",
+        "scan_id": "scene0260_00",
+        "sentence": "The towel hanging over the tub",
+        "json_obj": {
+            "category": "towel",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "tub",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1927,
+        "relation_name": "above",
+        "target_category": "picture",
+        "scan_id": "scene0567_00",
+        "sentence": "picture above the bed headrest",
+        "json_obj": {
+            "category": "picture",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "bed headrest",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2042,
+        "relation_name": "above",
+        "target_category": "soap dish",
+        "scan_id": "scene0625_00",
+        "sentence": "the soap dish above the faucet",
+        "json_obj": {
+            "category": "soap dish",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "faucet",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2184,
+        "relation_name": "above",
+        "target_category": "trash can",
+        "scan_id": "scene0026_00",
+        "sentence": "The trash can above the toilet",
+        "json_obj": {
+            "category": "trash can",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "toilet",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2983,
+        "relation_name": "above",
+        "target_category": "windows",
+        "scan_id": "scene0181_00",
+        "sentence": "the windows above the curtains",
+        "json_obj": {
+            "category": "windows",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "curtains",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3098,
+        "relation_name": "above",
+        "target_category": "cabinets",
+        "scan_id": "scene0109_00",
+        "sentence": "the cabinets above the counter",
+        "json_obj": {
+            "category": "cabinets",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "counter",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3233,
+        "relation_name": "above",
+        "target_category": "mirror",
+        "scan_id": "scene0096_00",
+        "sentence": "The mirror above washroom sink",
+        "json_obj": {
+            "category": "mirror",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "sink",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3603,
+        "relation_name": "above",
+        "target_category": "monitor",
+        "scan_id": "scene0092_00",
+        "sentence": "This monitor sits atop a desk.",
+        "json_obj": {
+            "category": "monitor",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "desk",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4296,
+        "relation_name": "above",
+        "target_category": "sign",
+        "scan_id": "scene0094_00",
+        "sentence": "the sign on top of the counter",
+        "json_obj": {
+            "category": "sign",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "counter",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4725,
+        "relation_name": "above",
+        "target_category": "blanket",
+        "scan_id": "scene0421_00",
+        "sentence": "Blanket is on the lowest shelf",
+        "json_obj": {
+            "category": "blanket",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "shelf",
+                            "relations": [],
+                            "shape": "lowest"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5145,
+        "relation_name": "above",
+        "target_category": "book",
+        "scan_id": "scene0525_00",
+        "sentence": "the book on top of the shelves",
+        "json_obj": {
+            "category": "book",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "shelves",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5198,
+        "relation_name": "above",
+        "target_category": "picture",
+        "scan_id": "scene0279_00",
+        "sentence": "The picture located above desk",
+        "json_obj": {
+            "category": "picture",
+            "relations": [
+                {
+                    "relation_name": "above",
+                    "objects": [
+                        {
+                            "category": "desk",
+                            "relations": []
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]

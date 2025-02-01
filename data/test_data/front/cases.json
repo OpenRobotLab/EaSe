@@ -1,0 +1,634 @@
+[
+    {
+        "type": "binary",
+        "dataset_idx": 4732,
+        "target": 34,
+        "scan_id": "scene0515_00",
+        "sentence": "Stool in front of couch",
+        "anchor": "couch"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 11486,
+        "target": 4,
+        "scan_id": "scene0634_00",
+        "sentence": "table in front of window",
+        "anchor": "window"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 17914,
+        "target": 48,
+        "scan_id": "scene0582_00",
+        "sentence": "box in front of the couch",
+        "anchor": "couch"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 8849,
+        "target": 6,
+        "scan_id": "scene0429_00",
+        "sentence": "sink in front of the toilet.",
+        "anchor": "toilet"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3262,
+        "target": 10,
+        "scan_id": "scene0605_00",
+        "sentence": "trash bin in front of the car",
+        "anchor": "car"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4016,
+        "target": 17,
+        "scan_id": "scene0110_00",
+        "sentence": "The radiator in front of door",
+        "anchor": "door"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 10314,
+        "target": 31,
+        "scan_id": "scene0340_00",
+        "sentence": "Lamp in front of the windows.",
+        "anchor": "window"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3817,
+        "target": 9,
+        "scan_id": "scene0424_00",
+        "sentence": "The chair in front of the desk",
+        "anchor": "desk"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 11987,
+        "target": 76,
+        "scan_id": "scene0515_00",
+        "sentence": "The shelf in front of the bed.",
+        "anchor": "bed"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6064,
+        "target": 69,
+        "scan_id": "scene0673_00",
+        "sentence": "The shoes in front of the futon",
+        "anchor": "futon"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 12659,
+        "target": 34,
+        "scan_id": "scene0515_00",
+        "sentence": "the stool in front of the couch",
+        "anchor": "couch"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 16041,
+        "target": 9,
+        "scan_id": "scene0424_00",
+        "sentence": "The chair in front of the desk.",
+        "anchor": "desk"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 17755,
+        "target": 58,
+        "scan_id": "scene0673_00",
+        "sentence": "The backpack in front of the tv",
+        "anchor": "tv"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 18951,
+        "target": 3,
+        "scan_id": "scene0614_00",
+        "sentence": "the chair in front of bookshelf",
+        "anchor": "bookshelf"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3362,
+        "target": 34,
+        "scan_id": "scene0515_00",
+        "sentence": "The stool in front of the couch.",
+        "anchor": "couch"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5354,
+        "target": 9,
+        "scan_id": "scene0175_00",
+        "sentence": "The door in front of the toilet.",
+        "anchor": "toilet"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2871,
+        "target": 70,
+        "scan_id": "scene0054_00",
+        "sentence": "The chair in front of the monitor",
+        "anchor": "monitor"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4358,
+        "target": 70,
+        "scan_id": "scene0054_00",
+        "sentence": "the chair in front of the monitor",
+        "anchor": "monitor"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5124,
+        "target": 2,
+        "scan_id": "scene0294_00",
+        "sentence": "the couch in front of the ottoman",
+        "anchor": "ottoman"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 13368,
+        "target": 38,
+        "scan_id": "scene0209_00",
+        "sentence": "The lamp in front of the curtains",
+        "anchor": "curtain"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 13461,
+        "target": 25,
+        "scan_id": "scene0211_00",
+        "sentence": "The chair in front of the window.",
+        "anchor": "window"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 14006,
+        "target": 23,
+        "scan_id": "scene0211_00",
+        "sentence": "the chair in front of the monitor",
+        "anchor": "monitor"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 18200,
+        "target": 31,
+        "scan_id": "scene0340_00",
+        "sentence": "the lamp is in front of the window",
+        "anchor": "window"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 11210,
+        "target": 2,
+        "scan_id": "scene0370_00",
+        "sentence": "The chair in front of the microwave",
+        "anchor": "microwave"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 18106,
+        "target": 14,
+        "scan_id": "scene0061_00",
+        "sentence": "The table is in front of the couch.",
+        "anchor": "couch"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1661,
+        "target": 16,
+        "scan_id": "scene0425_00",
+        "sentence": "the round chair in front of the door",
+        "anchor": "door"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 8103,
+        "target": 12,
+        "scan_id": "scene0446_00",
+        "sentence": "towel directly in front of the sink.",
+        "anchor": "sink"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 14137,
+        "target": 69,
+        "scan_id": "scene0673_00",
+        "sentence": "shoes directly in front of the couch",
+        "anchor": "couch"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3004,
+        "target": 27,
+        "scan_id": "scene0390_00",
+        "sentence": "chair that is NOT in front of a plant",
+        "anchor": "plant"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4919,
+        "target": 23,
+        "scan_id": "scene0166_00",
+        "sentence": "It's the chair in front of a monitor.",
+        "anchor": "monitor"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 8315,
+        "target": 34,
+        "scan_id": "scene0505_00",
+        "sentence": "The monitor directly in front of door",
+        "anchor": "door"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 15520,
+        "target": 10,
+        "scan_id": "scene0178_00",
+        "sentence": "It's the lamp in front of the window.",
+        "anchor": "window"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 17021,
+        "target": 10,
+        "scan_id": "scene0132_00",
+        "sentence": "the table in front of the round couch",
+        "anchor": "couch"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 1593,
+        "target": 50,
+        "scan_id": "scene0640_00",
+        "sentence": "the rolling chair in front of the desk",
+        "anchor": "desk"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4707,
+        "target": 37,
+        "scan_id": "scene0499_00",
+        "sentence": "the table is in front of the fireplace",
+        "anchor": "fireplace"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 11365,
+        "target": 18,
+        "scan_id": "scene0185_00",
+        "sentence": "table right in front of the blackboard",
+        "anchor": "blackboard"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 12068,
+        "target": 0,
+        "scan_id": "scene0001_00",
+        "sentence": "Couch directly in front of the window.",
+        "anchor": "window"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 14426,
+        "target": 22,
+        "scan_id": "scene0395_00",
+        "sentence": "cabinet directly in front of the door.",
+        "anchor": "door"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 17012,
+        "target": 12,
+        "scan_id": "scene0605_00",
+        "sentence": "I am the trash can in front of the car",
+        "anchor": "car"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 11150,
+        "target": 16,
+        "scan_id": "scene0035_00",
+        "sentence": "This door is right in front of the bed.",
+        "anchor": "bed"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 12576,
+        "target": 2,
+        "scan_id": "scene0517_00",
+        "sentence": "It's the chair in front of the picture.",
+        "anchor": "picture"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 8706,
+        "target": 63,
+        "scan_id": "scene0673_00",
+        "sentence": "The backpack in front of the book shelf.",
+        "anchor": "shelf"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 8855,
+        "target": 12,
+        "scan_id": "scene0374_00",
+        "sentence": "The couch is in front of the round table",
+        "anchor": "round table"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 13811,
+        "target": 34,
+        "scan_id": "scene0515_00",
+        "sentence": "The stool sitting in front of the couch.",
+        "anchor": "couch"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4836,
+        "target": 32,
+        "scan_id": "scene0296_00",
+        "sentence": "the shoes on the floor in front of the tv",
+        "anchor": "tv"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6188,
+        "target": 12,
+        "scan_id": "scene0179_00",
+        "sentence": "monitor on the desk in front of the plant",
+        "anchor": "plant"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6288,
+        "target": 30,
+        "scan_id": "scene0209_00",
+        "sentence": "lamp on table in front of picture on wall",
+        "anchor": "picture"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6695,
+        "target": 69,
+        "scan_id": "scene0673_00",
+        "sentence": "the shoes is in front of the couch thing.",
+        "anchor": "couch"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6796,
+        "target": 6,
+        "scan_id": "scene0631_00",
+        "sentence": "The sink directly in front of the toilet.",
+        "anchor": "toilet"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 10291,
+        "target": 39,
+        "scan_id": "scene0010_00",
+        "sentence": "The chair that is not in front of a desk.",
+        "anchor": "desk"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 13658,
+        "target": 4,
+        "scan_id": "scene0634_00",
+        "sentence": "The table directly in front of the window",
+        "anchor": "window"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 18306,
+        "target": 70,
+        "scan_id": "scene0054_00",
+        "sentence": "The chair in front of a computer monitor.",
+        "anchor": "monitor"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 4173,
+        "target": 23,
+        "scan_id": "scene0646_00",
+        "sentence": "the computer monitor in front of the couch",
+        "anchor": "couch"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5081,
+        "target": 8,
+        "scan_id": "scene0523_00",
+        "sentence": "towel on the floor in front of the toilet.",
+        "anchor": "toilet"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 18339,
+        "target": 17,
+        "scan_id": "scene0331_00",
+        "sentence": "The box is directly in front of the chair.",
+        "anchor": "chair"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 7436,
+        "target": 0,
+        "scan_id": "scene0001_00",
+        "sentence": "The couch directly in front of the windows.",
+        "anchor": "window"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 13091,
+        "target": 25,
+        "scan_id": "scene0335_00",
+        "sentence": "select the chair that is in front of the tv",
+        "anchor": "tv"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 16128,
+        "target": 3,
+        "scan_id": "scene0668_00",
+        "sentence": "The stool in the center in front of the tv.",
+        "anchor": "tv"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3032,
+        "target": 1,
+        "scan_id": "scene0017_00",
+        "sentence": "Keyboard directly in front of big whiteboard",
+        "anchor": "whiteboard"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3902,
+        "target": 16,
+        "scan_id": "scene0560_00",
+        "sentence": "the door in the corner in front of the chair",
+        "anchor": "chair"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5290,
+        "target": 50,
+        "scan_id": "scene0517_00",
+        "sentence": "The books is one the table in front of couch",
+        "anchor": "couch"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 16657,
+        "target": 32,
+        "scan_id": "scene0092_00",
+        "sentence": "The monitor directly in front of the guitar.",
+        "anchor": "guitar"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2465,
+        "target": 12,
+        "scan_id": "scene0079_00",
+        "sentence": "the chair in front of the monitor on the desk",
+        "anchor": "monitor"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 3659,
+        "target": 19,
+        "scan_id": "scene0605_00",
+        "sentence": "The shoes in front of car closest to the door",
+        "anchor": "door"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 9900,
+        "target": 5,
+        "scan_id": "scene0366_00",
+        "sentence": "This sink is directly in front of the toilet.",
+        "anchor": "toilet"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 11309,
+        "target": 23,
+        "scan_id": "scene0619_00",
+        "sentence": "keyboard in front of the monitor that is off.",
+        "anchor": "hat"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 13821,
+        "target": 8,
+        "scan_id": "scene0523_00",
+        "sentence": "The towel on the floor in front of the toilet",
+        "anchor": "toilet"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 15377,
+        "target": 10,
+        "scan_id": "scene0605_00",
+        "sentence": "The correct trash can is in front of the car.",
+        "anchor": "car"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 18730,
+        "target": 2,
+        "scan_id": "scene0668_00",
+        "sentence": "The ottoman in front of couch with a backpack",
+        "anchor": "couch"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 2011,
+        "target": 5,
+        "scan_id": "scene0206_00",
+        "sentence": "The chair that's right in front of the windows",
+        "anchor": "window"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 9059,
+        "target": 1,
+        "scan_id": "scene0017_00",
+        "sentence": "select the keyboard in front of the whiteboard",
+        "anchor": "whiteboard"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 12943,
+        "target": 2,
+        "scan_id": "scene0532_00",
+        "sentence": "It is the door directly in front of the stove.",
+        "anchor": "stove"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 15416,
+        "target": 14,
+        "scan_id": "scene0613_00",
+        "sentence": "The books on the floor in front of the window.",
+        "anchor": "window"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 19383,
+        "target": 3,
+        "scan_id": "scene0174_00",
+        "sentence": "The box immediately in front of the bookshelf.",
+        "anchor": "bookshelf"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 6532,
+        "target": 25,
+        "scan_id": "scene0051_00",
+        "sentence": "the chair directly in front of the two monitors",
+        "anchor": "monitor"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 12096,
+        "target": 32,
+        "scan_id": "scene0092_00",
+        "sentence": "the monitor on the floor in front of the guitar",
+        "anchor": "guitar"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 583,
+        "target": 9,
+        "scan_id": "scene0676_00",
+        "sentence": "the towel is on the floor in front of the toilet",
+        "anchor": "toilet"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 5132,
+        "target": 32,
+        "scan_id": "scene0296_00",
+        "sentence": "choose the shoes on the floor in front of the tv",
+        "anchor": "tv"
+    },
+    {
+        "type": "binary",
+        "dataset_idx": 8341,
+        "target": 25,
+        "scan_id": "scene0468_00",
+        "sentence": "the trash can on your right in front of radiator",
+        "anchor": "radiator"
+    }
+]

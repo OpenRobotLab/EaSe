@@ -1,0 +1,14 @@
+We have run your code on some cases. Here are 3 failure cases:
+
+{test_cases}
+
+The first three are the center of the object, the last three are the size of the object. x-y is the horizontal plane and z is the vertical axis.
+{force_rewrite}
+Please carefully analyze each of the failure case and explain why your code failed to pass it. The reason can be incorrect test case might or your code might not be able to handle some specific cases. Please write your analysis for each of the failure cases.
+
+After the analysis of all cases, you should write the improved code based on your analysis. But **never** modify on the class methods and function parameters. 
+
+Some possible improvement ways:
+1. Use a new algorithm to calculate the metric value rather than just modifying the existing code.
+2. Consider carefully what other factors might be relevant to the spatial relationship between two objects and use them in your calculation.
+3. Check the correctness of the input data and the calculation process.

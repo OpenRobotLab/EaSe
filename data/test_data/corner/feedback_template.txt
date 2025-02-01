@@ -1,0 +1,3 @@
+# Case {idx}.
+
+Metric value of object {target_loc} "at the corner" should be larger than 0 and the metric value of object {pred_loc}.
