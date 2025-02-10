@@ -1,6 +1,6 @@
 # Evolving Symbolic 3D Visual Grounder with Weakly Supervised Reflection
 
-Code for paper `Evolving Symbolic 3D Visual Grounder with Weakly Supervised Reflection`.
+Code for paper [Evolving Symbolic 3D Visual Grounder with Weakly Supervised Reflection](https://arxiv.org/abs/2502.01401).
 
 ## Environment Installation
 
