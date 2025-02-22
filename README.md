@@ -60,6 +60,7 @@ data
 - `feats_3d.pkl`: predicted object labels for Nr3D from [ZSVG3D](https://cuhko365-my.sharepoint.com/:u:/g/personal/221019046_link_cuhk_edu_cn/ERMP88uTVCNLhzofKub7MsMBvaRAFXVr5abbQUjRYyYDiA?e=x6aKC9)
 - `tables.pkl`: tables for code generation. [download_link](https://drive.google.com/file/d/11sN1ndS-DptYVH_xUXxaiWhwbvIaozuW/view?usp=drive_link)
 
+[huggingface dataset](https://huggingface.co/datasets/miboyu5/EaSe)
 ## (Optional) Relation Encoder Generation
 
 Run `src/relation_encoders/run_optim.py` to generate relation encoders for 6 relations:
