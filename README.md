@@ -1,6 +1,13 @@
-# Evolving Symbolic 3D Visual Grounder with Weakly Supervised Reflection
+<div align="center">
+<h1>Evolving Symbolic 3D Visual Grounder with Weakly Supervised Reflection</h1>
+  
+Boyu Mi,  Hanqing Wang, Tai Wang, Yilun Chen, Jiangmiao Pang
 
-Code for paper `Evolving Symbolic 3D Visual Grounder with Weakly Supervised Reflection`.
+Shanghai AI Laboratory
+
+<a href="https://arxiv.org/abs/2502.01401"><img src='https://img.shields.io/badge/arXiv-Paper-red20B2AA?style=for-the-badge' alt='Paper'></a>
+<a href='https://huggingface.co/datasets/miboyu5/EaSe'><img src='https://img.shields.io/badge/huggingface-dataset-yellow?style=for-the-badge'  alt='Dataset'></a>
+</div>
 
 ## Environment Installation
 
