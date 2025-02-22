@@ -5,8 +5,12 @@ Boyu Mi,  Hanqing Wang, Tai Wang, Yilun Chen, Jiangmiao Pang
 
 Shanghai AI Laboratory
 
-<a href="https://arxiv.org/abs/2502.01401"><img src='https://img.shields.io/badge/arXiv-Paper-red20B2AA?style=for-the-badge' alt='Paper'></a>
-<a href='https://huggingface.co/datasets/miboyu5/EaSe'><img src='https://img.shields.io/badge/huggingface-dataset-yellow?style=for-the-badge'  alt='Dataset'></a>
+</div>
+
+<div align="center">
+
+[![HF Datasets](https://img.shields.io/badge/%F0%9F%A4%97-Datasets-yellow?style=for-the-badge)](https://huggingface.co/datasets/miboyu5/EaSe) [![Arxiv](https://img.shields.io/badge/arXiv-Paper-red?style=for-the-badge)](https://arxiv.org/abs/2502.01401)
+
 </div>
 
 ## Environment Installation
